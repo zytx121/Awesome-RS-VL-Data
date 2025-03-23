@@ -25,10 +25,8 @@ This repository is proposed to facilitate training remote sensing Multimodal lar
 |2024|arXiv|`i-t`|[SkyEye-968k](https://arxiv.org/abs/2401.09712)|[Code](https://github.com/ZhanYang-nwpu/SkyEyeGPT)|N/A|
 |2024|arXiv|`i-t`|[MMRS-1M](https://arxiv.org/abs/2401.16822)|[Project](https://github.com/wivizhang/EarthGPT)|N/A|
 |2024|arXiv|`i-t`|[LHRS-Align & LHRS-Instruct](https://arxiv.org/abs/2402.02544)|[Code](https://github.com/NJU-LHRS/LHRS-Bot)|N/A|
-|2024|arXiv|`i-t-m`|[ChatEarthNet](https://arxiv.org/abs/2402.11325)|[project](https://github.com/zhu-xlab/ChatEarthNet)|[link](https://doi.org/10.5281/zenodo.11003436)|
 |2024|arXiv|`i-t`|[VLEO-Bench](https://arxiv.org/abs/2401.17600)|[Code](https://vleo.danielz.ch/)|[link](https://huggingface.co/collections/mit-ei/vleo-benchmark-datasets-65b789b0466555489cce0d70)|
 |2024|arXiv|`i-t`|[LuoJiaHOG](https://arxiv.org/abs/2403.10887)|N/A|N/A|
-|2024|arXiv|`i-t-m`|[FineGrip](https://arxiv.org/abs/2404.04608)|N/A|N/A|
 |2024|arXiv|`i-t`|[RS-GPT4V](https://arxiv.org/abs/2406.12479)|N/A|N/A|
 |2024|arXiv|`i-t`|[VRSBench](https://arxiv.org/abs/2406.12384)|N/A|N/A|
 |2024|arXiv|`i-t`|[RSTeller](https://arxiv.org/abs/2408.14744)|[Project](https://github.com/SlytherinGe/RSTeller/)|[link](https://huggingface.co/datasets/SlytherinGe/RSTeller)|
@@ -61,22 +59,29 @@ This repository is proposed to facilitate training remote sensing Multimodal lar
 |2022|RS|`v-t`|[CapERA](https://www.mdpi.com/2072-4292/15/8/2139)|[Project](https://lcmou.github.io/ERA_Dataset/)|[link](https://drive.google.com/file/d/1yxXjDNAq5RAufSgSOE4QmdsNfAc4dOfM/view)|
 
 ### Visual Question Answering (VQA)
+
+- `Temporal`: Multi-Image Input
+- `Math`: Mathematical Question
+
 |Year|Venue|Keywords|Name|Code/Project|Download|
 |:-:|:-:|:-:|-|-|-|
 |2020|TGRS|`i-t`|[RSVQA-LR & RSVQA-HR](https://arxiv.org/abs/2003.07333)|[Project](https://rsvqa.sylvainlobry.com)|[link1](https://zenodo.org/records/6344334),[link2](https://zenodo.org/records/6344367)|
 |2021|IGARSS|`i-t`|[RSVQAxBEN](https://rsvqa.sylvainlobry.com/IGARSS21.pdf)|[Project](https://rsvqa.sylvainlobry.com)|[link](https://zenodo.org/records/5084904)|
 |2021|Access|`i-t`|[FloodNet](https://ieeexplore.ieee.org/abstract/document/9460988)|[Project](https://github.com/BinaLab/FloodNet-Supervised_v1.0)|[link](https://drive.google.com/drive/folders/1leN9eWVQcvWDVYwNb2GCo5ML_wBEycWD)|
 |2021|TGRS|`i-t`|[RSIVQA](https://ieeexplore.ieee.org/document/9444570)|[Code](https://github.com/spectralpublic/RSIVQA)|[link](https://github.com/spectralpublic/RSIVQA/tree/main/RSIVQA)|
+|2022|TGRS|`Temporal`|[CDVQA](https://ieeexplore.ieee.org/abstract/document/9901476)|[Project](https://github.com/YZHJessica/CDVQA)|[link](https://github.com/YZHJessica/CDVQA)|
 |2022|TGRS|`i-t`|[CRSVQA](https://ieeexplore.ieee.org/abstract/document/10242124)|[Project](https://github.com/MeimeiZhang-data/MQVQA)|[link](https://drive.google.com/file/d/12DQwGzJ5OQK1rU0T5CmpNN9bEs38x_mQ/view)|
-|2023|arXiv|`i-t`|[RemoteCount](https://arxiv.org/abs/2306.11029)|[Code](https://github.com/ChenDelong1999/RemoteCLIP)|N/A|
-|2024|AAAI |`i-t-m`|[EarthVQA](https://arxiv.org/abs/2312.12222)|[Project](https://junjuewang.top/EarthVQA)|N/A|
-
+|2023|arXiv|`Math`|[RemoteCount](https://arxiv.org/abs/2306.11029)|[Code](https://github.com/ChenDelong1999/RemoteCLIP)|N/A|
+|2024|AAAI |`SEG`|[EarthVQA](https://arxiv.org/abs/2312.12222)|[Project](https://junjuewang.top/EarthVQA)|N/A|
 
 ### Temporal VQA
 |Year|Venue|Keywords|Name|Code/Project|Download|
 |:-:|:-:|:-:|-|-|-|
-|2022|TGRS|`i-t`|[CDVQA](https://ieeexplore.ieee.org/abstract/document/9901476)|[Project](https://github.com/YZHJessica/CDVQA)|[link](https://github.com/YZHJessica/CDVQA)|
 
+
+### Mathematical VQA
+|Year|Venue|Keywords|Name|Code/Project|Download|
+|:-:|:-:|:-:|-|-|-|
 
 ### Visual Grounding
 
@@ -86,11 +91,18 @@ This repository is proposed to facilitate training remote sensing Multimodal lar
 
 |Year|Venue|Keywords|Name|Code/Project|Download|
 |:-:|:-:|:-:|-|-|-|
-|2022|MM|HBB|[RSVG](https://dl.acm.org/doi/abs/10.1145/3503161.3548316)|[Project](https://sunyuxi.github.io/publication/GeoVG)|[link](https://drive.google.com/file/d/1kgnmVC6FVKdxCwaoG77sOfkaIHS_XiFt/view)|
-|2023|TGRS|HBB|[DIOR-RSVG](https://ieeexplore.ieee.org/abstract/document/10056343)|[Project](https://github.com/ZhanYang-nwpu/RSVG-pytorch)|[link](https://drive.google.com/drive/folders/1hTqtYsC6B-m4ED2ewx5oKuYZV13EoJp_)|
-|2024|ECCV|HBB|[GeoText](https://arxiv.org/abs/2311.12751)|[Project](https://multimodalgeo.github.io/GeoText/)|[link](https://huggingface.co/datasets/truemanv5666/GeoText1652_Dataset)|
-|2024|TGRS|SEG|[RRSIS](https://ieeexplore.ieee.org/abstract/document/10458079)|[Code](https://gitlab.lrz.de/ai4eo/reasoning/rrsis)|[link](https://huggingface.co/datasets/JessicaYuan/RefSegRS)|
-|2024|CVPR|SEG|[RRSIS-D](https://arxiv.org/abs/2312.12470)|[Code](https://github.com/Lsan2401/RMSIN)|[link](https://drive.google.com/drive/folders/1Xqi3Am2Vgm4a5tHqiV9tfaqKNovcuK3A)|
+|2022|MM|`HBB`|[RSVG](https://dl.acm.org/doi/abs/10.1145/3503161.3548316)|[Project](https://sunyuxi.github.io/publication/GeoVG)|[link](https://drive.google.com/file/d/1kgnmVC6FVKdxCwaoG77sOfkaIHS_XiFt/view)|
+|2023|TGRS|`HBB`|[DIOR-RSVG](https://ieeexplore.ieee.org/abstract/document/10056343)|[Project](https://github.com/ZhanYang-nwpu/RSVG-pytorch)|[link](https://drive.google.com/drive/folders/1hTqtYsC6B-m4ED2ewx5oKuYZV13EoJp_)|
+|2024|ECCV|`HBB`|[GeoText](https://arxiv.org/abs/2311.12751)|[Project](https://multimodalgeo.github.io/GeoText/)|[link](https://huggingface.co/datasets/truemanv5666/GeoText1652_Dataset)|
+|2024|TGRS|`SEG`|[RRSIS](https://ieeexplore.ieee.org/abstract/document/10458079)|[Code](https://gitlab.lrz.de/ai4eo/reasoning/rrsis)|[link](https://huggingface.co/datasets/JessicaYuan/RefSegRS)|
+|2024|CVPR|`SEG`|[RRSIS-D](https://arxiv.org/abs/2312.12470)|[Code](https://github.com/Lsan2401/RMSIN)|[link](https://drive.google.com/drive/folders/1Xqi3Am2Vgm4a5tHqiV9tfaqKNovcuK3A)|
+
+
+
+## SFT with Rationale
+|Year|Venue|Keywords|Name|Code/Project|Download|
+|:-:|:-:|:-:|-|-|-|
+
 
 
 
@@ -108,7 +120,8 @@ This repository is proposed to facilitate training remote sensing Multimodal lar
 ### Segmentation
 |Year|Venue|Keywords|Name|Code/Project|Download|
 |:-:|:-:|:-:|-|-|-|
-
+|2024|arXiv|`i-t-m`|[ChatEarthNet](https://arxiv.org/abs/2402.11325)|[project](https://github.com/zhu-xlab/ChatEarthNet)|[link](https://doi.org/10.5281/zenodo.11003436)|
+|2024|arXiv|`i-t-m`|[FineGrip](https://arxiv.org/abs/2404.04608)|N/A|N/A|
 
 
 
