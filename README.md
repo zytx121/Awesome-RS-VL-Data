@@ -95,73 +95,81 @@ This repository is proposed to facilitate training remote sensing Multimodal lar
 ### Classification
 |Year|Venue|Keywords|Name|Download|
 |:-:|:-:|:-:|-|-|
+|2010|GIS| |[UCM](https://dl.acm.org/doi/abs/10.1145/1869790.1869829)|[link](http://weegee.vision.ucmerced.edu/datasets/landuse.html)|
+|2011|TGRS| |[WHU RS19](https://ieeexplore.ieee.org/abstract/document/5545358)|[link](https://captain-whu.github.io/BED4RS/)|
+|2015|GRSL| |[RSSCN7](https://ieeexplore.ieee.org/abstract/document/7272047)|[link](https://github.com/palewithout/RSSCN7)|
+|2015|TGRS| |[SIRI WHU](https://ieeexplore.ieee.org/document/7329997)|[link](https://huggingface.co/datasets/jonathan-roberts1/SIRI-WHU)|
+|2016|JARS| |[RS C11](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-10/issue-3/035004/Feature-significance-based-multibag-of-visual-words-model-for-remote/10.1117/1.JRS.10.035004.short)|[link](https://huggingface.co/datasets/jonathan-roberts1/RS_C11)|
+|2017|TGRS| |[RSD46-WHU](https://ieeexplore.ieee.org/abstract/document/7827088)|[link](https://huggingface.co/datasets/jonathan-roberts1/RSD46-WHU)|
 |2017|TGRS| |[AID](https://captain-whu.github.io/AID/)|[link](https://captain-whu.github.io/AID/)|
 |2017|Proc. IEEE| |[NWPU-RESISC45](https://ieeexplore.ieee.org/abstract/document/7891544)|[link](https://gcheng-nwpu.github.io/#Datasets)|
+|2018|Website| |Hefei|[link](https://aistudio.baidu.com/datasetdetail/88597)|
+|2018|DP| |[Hurricane Damage](https://arxiv.org/abs/1807.01688)|[link](https://huggingface.co/datasets/jonathan-roberts1/Satellite-Images-of-Hurricane-Damage)|
+|2018|TGRS| |[OPTIMAL31](https://ieeexplore.ieee.org/document/8454883)|[link](https://huggingface.co/datasets/jonathan-roberts1/Optimal-31)|
+|2018|JPRS| |[PatternNet](https://www.sciencedirect.com/science/article/abs/pii/S0924271618300042)|[link](https://sites.google.com/view/zhouwx/dataset#h.p_hQS2jYeaFpV0)|
 |2019|JSTARS| |[EuroSAT](https://ieeexplore.ieee.org/abstract/document/8736785)|[link](https://zenodo.org/records/7711810)|
 |2020|Website| |AiRound|[link](http://patreo.dcc.ufmg.br/2020/07/22/multi-view-datasets/)|
 |2020|Website| |airplane_det|[link](https://aistudio.baidu.com/datasetdetail/131179)|
 |2020|Sensor| |[CLRS](https://www.mdpi.com/1424-8220/20/4/1226)|[link](https://huggingface.co/datasets/jonathan-roberts1/CLRS)|
+|2020|Sensor| |[RSI CB](https://arxiv.org/abs/1705.10450)|[link](https://github.com/lehaifeng/RSI-CB)|
 |2021|Website| |ship_det|[link](https://aistudio.baidu.com/datasetdetail/134218)|
+|2021|JSTARS| |[million-AID](https://ieeexplore.ieee.org/abstract/document/9393553)|[link](https://captain-whu.github.io/DiRS/)|
+|2021|TGRS| |[MultiScene](https://ieeexplore.ieee.org/abstract/document/9537917)|[link](https://multiscene.github.io/)|
+|2021|JSTARS| |[NaSC TG2](https://ieeexplore.ieee.org/abstract/document/9366968)|[link](https://captain-whu.github.io/BED4RS/)|
 |2023|ICCVW| |[SATIN](https://arxiv.org/abs/2304.11619)|[link](https://satinbenchmark.github.io/)|
 
 
 ### Detection
 |Year|Venue|Keywords|Name|Download|
 |:-:|:-:|:-:|-|-|
-|2014|ISPRS JPRS| |[NWPU VHR-10](https://www.sciencedirect.com/science/article/abs/pii/S0924271614002524)|[link](https://gcheng-nwpu.github.io/#Datasets)|
+|2012|TPAMI| |[SZTAKI](https://ieeexplore.ieee.org/document/5766001)|[link](http://web.eee.sztaki.hu/remotesensing/building_benchmark.html)|
+|2014|JPRS| |[NWPU VHR-10](https://www.sciencedirect.com/science/article/abs/pii/S0924271614002524)|[link](https://gcheng-nwpu.github.io/#Datasets)|
+|2015|ICIP| |[UCAS-AOD](https://ieeexplore.ieee.org/document/7351502)|[link](https://github.com/ming71/UCAS-AOD-benchmark)|
+|2017|ICPRAM| |[HRSC2016](https://www.scitepress.org/PublishedPapers/2017/61206/)|[link](https://www.kaggle.com/datasets/guofeng/hrsc2016)|
+|2017|TGRS| |[RSOD](https://ieeexplore.ieee.org/abstract/document/7827088)|[link](https://github.com/RSIA-LIESMARS-WHU/RSOD-Dataset-)|
 |2018|CVPR| |[DOTA](https://arxiv.org/abs/1711.10398)|[link](https://captain-whu.github.io/DOTA/dataset.html)|
 |2018|Kaggle| |ASD|[link](https://www.kaggle.com/c/airbus-ship-detection)|
-|2020|ISPRS JPRS| |[DIOR](https://www.sciencedirect.com/science/article/abs/pii/S0924271619302825)|[link](https://gcheng-nwpu.github.io/#Datasets)|
+|2018|arXiv| |[xView](https://arxiv.org/abs/1802.07856)|[link](https://challenge.xviewdataset.org/download-links)|
+|2020|JPRS| |[DIOR](https://www.sciencedirect.com/science/article/abs/pii/S0924271619302825)|[link](https://gcheng-nwpu.github.io/#Datasets)|
+|2021|RS| |[S2-SHIPS](https://www.mdpi.com/2072-4292/13/21/4255)|[link](https://drive.google.com/file/d/1zDgz6wr5kxikPR7o9nJ2IjMcaqwtiLLu/view)|
+|2021|JSTARS| |[ShipRSImagerNet](https://ieeexplore.ieee.org/document/9512396)|[link](https://drive.google.com/file/d/1wApkaSoa9mXRfXQiq6lTtlVrv4cSc6vv/view)|
 |2022|JRS| |[MAR20](https://www.ygxb.ac.cn/en/article/doi/10.11834/jrs.20222139/)|[link](https://gcheng-nwpu.github.io/#Datasets)|
-|2022|ISPRS JPRS| |[FAIR1M](https://www.sciencedirect.com/science/article/abs/pii/S0924271621003269)|[link](https://gaofen-challenge.com/benchmark)|
+|2022|JPRS| |[FAIR1M](https://www.sciencedirect.com/science/article/abs/pii/S0924271621003269)|[link](https://gaofen-challenge.com/benchmark)|
+|2022|IJGI| |[VHRShips]()|[link](https://github.com/radres333/VHRShips)|
 |2023|TPAMI| |[SODA-A](https://ieeexplore.ieee.org/abstract/document/10168277/)|[link](https://gcheng-nwpu.github.io/#Datasets)|
 
 
 ### Segmentation
 |Year|Venue|Keywords|Name|Download|
 |:-:|:-:|:-:|-|-|
+|2017|IGARSS| |[Inria](https://ieeexplore.ieee.org/abstract/document/8127684)|[link](https://project.inria.fr/aerialimagelabeling/)|
+|2018|RS| |[DLRSD](https://www.mdpi.com/2072-4292/10/6/964)|[link](https://sites.google.com/view/zhouwx/dataset#h.p_hQS2jYeaFpV0)|
+|2019|CVPRW| |[iSAID](https://openaccess.thecvf.com/content_CVPRW_2019/html/DOAI/Zamir_iSAID_A_Large-scale_Dataset_for_Instance_Segmentation_in_Aerial_Images_CVPRW_2019_paper.html)|[link](https://captain-whu.github.io/iSAID/)|
 |2020|Website| |BHP Watertanks|[link](http://patreo.dcc.ufmg.br/2020/07/29/bh-pools-watertanks-datasets/)|
+|2020|RSE| |[GID15](https://www.sciencedirect.com/science/article/abs/pii/S0034425719303414)|[link](https://captain-whu.github.io/GID15/)|N/A|
+|2020|RSE| |[WHU GID](https://www.sciencedirect.com/science/article/abs/pii/S0034425719303414)|[link](https://captain-whu.github.io/GID15/)|
+|2021|TGRS| |[GEONRW](https://ieeexplore.ieee.org/document/9406194)|[link](https://ieee-dataport.org/open-access/geonrw)|
+|2021|arXiv| |[LoveDA](https://arxiv.org/abs/2110.08733)|[link](https://github.com/Junjue-Wang/LoveDA)|
+|2023|JRS| |[Globe230k](https://spj.science.org/doi/full/10.34133/remotesensing.0078)|[link](https://zenodo.org/records/8429200)|
+|2023|NeurIPS| |[SAMRS](https://arxiv.org/abs/2305.02034)|[link](https://github.com/ViTAE-Transformer/SAMRS)|
 |2024|arXiv| |[ChatEarthNet](https://arxiv.org/abs/2402.11325)|[link](https://github.com/zhu-xlab/ChatEarthNet)|
 |2024|arXiv| |[FineGrip](https://arxiv.org/abs/2404.04608)|N/A|
-|2018|RS| |[DLRSD](https://www.mdpi.com/2072-4292/10/6/964)|[link](https://sites.google.com/view/zhouwx/dataset#h.p_hQS2jYeaFpV0)|
-|2021|TGRS| |[GEONRW](https://ieeexplore.ieee.org/document/9406194)|[link](https://ieee-dataport.org/open-access/geonrw)|
+
 
 
 ### Change Detection
 |Year|Venue|Keywords|Name|Download|
 |:-:|:-:|:-:|-|-|
-|2018|ISPRS Archives| |[CDD](https://isprs-archives.copernicus.org/articles/XLII-2/565/2018/)|[link](https://drive.google.com/file/d/1GX656JqqOyBi_Ef0w65kDGVto-nHrNs9/edit)|
-|2020|ISPRS JPRS| |[DSIFN](https://www.sciencedirect.com/science/article/abs/pii/S0924271620301532)|[link](https://github.com/GeoZcx/A-deeply-supervised-image-fusion-network-for-change-detection-in-remote-sensing-images/tree/master/dataset)|
+|2018|Archives| |[CDD](https://isprs-archives.copernicus.org/articles/XLII-2/565/2018/)|[link](https://drive.google.com/file/d/1GX656JqqOyBi_Ef0w65kDGVto-nHrNs9/edit)|
+|2018|TGRS| |[WHU-CD](https://ieeexplore.ieee.org/document/8444434)|[link](https://gpcv.whu.edu.cn/data/building_dataset.html)|
+|2019|CVIU| |[HRSCD](https://www.sciencedirect.com/science/article/abs/pii/S1077314219300992)|[link](https://ieee-dataport.org/open-access/hrscd-high-resolution-semantic-change-detection-dataset)|
+|2020|JPRS| |[DSIFN](https://www.sciencedirect.com/science/article/abs/pii/S0924271620301532)|[link](https://github.com/GeoZcx/A-deeply-supervised-image-fusion-network-for-change-detection-in-remote-sensing-images/tree/master/dataset)|
+|2020|RS| |[LEVIR-CD](https://www.mdpi.com/2072-4292/12/10/1662)|[link](https://opendatalab.com/OpenDataLab/LEVIR-CD)|
+|2021|RS| |[LEVIR-CD+](https://www.mdpi.com/2072-4292/13/24/5094)|[link](https://github.com/S2Looking/Dataset)|
+|2021|RS| |[S2Looking](https://www.mdpi.com/2072-4292/13/24/5094)|[link](https://github.com/S2Looking/Dataset)|
+|2021|TGRS| |[SYSU-CD](https://ieeexplore.ieee.org/document/9467555)|[link](https://github.com/liumency/DSAMNet)|
+|2022|JSTARS| |[MSBC](https://ieeexplore.ieee.org/document/9791854)|[link](https://github.com/Lihy256/MSCDUnet)|
+|2022|JSTARS| |[MSOSCD](https://ieeexplore.ieee.org/document/9791854)|[link](https://github.com/Lihy256/MSCDUnet)|
+|2022|JPRS| |[NJDS](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001344)|[link](https://drive.google.com/file/d/1cQRWORIgW-X2BaeRo1hvFj7vlQtwnmne/view?userstoinvite=infinitemabel.wq@gmail.com&ts=636c5f76&actionButton=1&pli=1)|
 |2023|GRSL| |[EGY BCD](https://ieeexplore.ieee.org/abstract/document/10145434/)|[link](https://github.com/oshholail/EGY-BCD)|
-
-
-
-
-
-||| |[]()|[link]()|N/A|
-||| |[]()|[link]()|N/A|
-||| |[]()|[link]()|N/A|
-||| |[]()|[link]()|N/A|
-||| |[]()|[link]()|N/A|
-||| |[]()|[link]()|N/A|
-||| |[]()|[link]()|N/A|
-||| |[]()|[link]()|N/A|
-||| |[]()|[link]()|N/A|
-||| |[]()|[link]()|N/A|
-||| |[]()|[link]()|N/A|
-||| |[]()|[link]()|N/A|
-||| |[]()|[link]()|N/A|
-||| |[]()|[link]()|N/A|
-||| |[]()|[link]()|N/A|
-||| |[]()|[link]()|N/A|
-||| |[]()|[link]()|N/A|
-||| |[]()|[link]()|N/A|
-||| |[]()|[link]()|N/A|
-||| |[]()|[link]()|N/A|
-||| |[]()|[link]()|N/A|
-||| |[]()|[link]()|N/A|
-||| |[]()|[link]()|N/A|
-||| |[]()|[link]()|N/A|
-
-
-
+||| |[]()|[link]()|
