@@ -13,9 +13,10 @@ This repository is proposed to facilitate training remote sensing Multimodal lar
 - [Meta Data](meta-data)
 
 ## Comprehensive SFT
+[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/1)
 
-|Year|Venue|Keywords|Name|Code/Project|Download|
-|:-:|:-:|:-:|-|-|-|
+|Year|Venue|Keywords|Name|Download|Discuss|
+|:-:|:-:|:-:|-|-|
 |2023|arXiv| |[RS5M](https://arxiv.org/abs/2306.11300)|[Code](https://github.com/om-ai-lab/RS5M)|[link](https://huggingface.co/datasets/Zilun/RS5M)|
 |2023|arXiv| |[LAION-EO](https://arxiv.org/abs/2309.15535)|N/A|[link](https://huggingface.co/datasets/mikonvergence/LAION-EO)|
 |2023|arXiv| |[RSICap & RSIEval](https://arxiv.org/abs/2307.15266)|[Code](https://github.com/Lavender105/RSGPT)|N/A|
@@ -46,32 +47,32 @@ This repository is proposed to facilitate training remote sensing Multimodal lar
 - `Change`: Change Captioning
 - `Video`: Video Captioning
 
-|Year|Venue|Keywords|Name|Code/Project|Download|
-|:-:|:-:|:-:|-|-|-|
-|2016|CITS| |[Sydney-Captions & UCM-Captions](https://ieeexplore.ieee.org/abstract/document/7546397)|[N/A]|[link](https://pan.baidu.com/s/1mjPToHq#list/path=%2F),[link2](https://pan.baidu.com/s/1hujEmcG#list/path=%2F)|
-|2017|TGRS| |[RSICD](https://ieeexplore.ieee.org/document/8240966)|[Project](https://github.com/201528014227051/RSICD_optimal)|[Link](https://pan.baidu.com/s/1bp71tE3#list/path=%2F)|
-|2021|TGRS| |[RSITMD](https://ieeexplore.ieee.org/document/9437331)|[Code](https://github.com/xiaoyuan1996/AMFMN)|[link](https://drive.google.com/file/d/1NJY86TAAUd8BVs7hyteImv8I2_Lh95W6/view)|
-|2022|TGRS| |[NWPU-Captions](https://ieeexplore.ieee.org/document/9866055)|[Project](https://github.com/HaiyanHuang98/NWPU-Captions)|[link](https://github.com/HaiyanHuang98/NWPU-Captions)|
-|2022|TGRS| |[UAV-Captions](https://ieeexplore.ieee.org/document/9521989)|N/A|N/A|
-|2022|TGRS|`Change`|[LEVIR-CC](https://ieeexplore.ieee.org/abstract/document/9934924)|[Project](https://github.com/Chen-Yang-Liu/RSICC)|[link](https://github.com/Chen-Yang-Liu/LEVIR-CC-Dataset)|
-|2022|RS|`Video`|[CapERA](https://www.mdpi.com/2072-4292/15/8/2139)|[Project](https://lcmou.github.io/ERA_Dataset/)|[link](https://drive.google.com/file/d/1yxXjDNAq5RAufSgSOE4QmdsNfAc4dOfM/view)|
+|Year|Venue|Keywords|Name|Download|
+|:-:|:-:|:-:|-|-|
+|2016|CITS| |[Sydney-Captions & UCM-Captions](https://ieeexplore.ieee.org/abstract/document/7546397)|[link](https://pan.baidu.com/s/1mjPToHq#list/path=%2F),[link2](https://pan.baidu.com/s/1hujEmcG#list/path=%2F)|
+|2017|TGRS| |[RSICD](https://ieeexplore.ieee.org/document/8240966)|[link](https://github.com/201528014227051/RSICD_optimal)|
+|2021|TGRS| |[RSITMD](https://ieeexplore.ieee.org/document/9437331)|[link](https://github.com/xiaoyuan1996/AMFMN)|
+|2022|TGRS| |[NWPU-Captions](https://ieeexplore.ieee.org/document/9866055)|[Project](https://github.com/HaiyanHuang98/NWPU-Captions)|
+|2022|TGRS| |[UAV-Captions](https://ieeexplore.ieee.org/document/9521989)|N/A|
+|2022|TGRS|`Change`|[LEVIR-CC](https://ieeexplore.ieee.org/abstract/document/9934924)|[Project](https://github.com/Chen-Yang-Liu/RSICC)|
+|2022|RS|`Video`|[CapERA](https://www.mdpi.com/2072-4292/15/8/2139)|[Project](https://lcmou.github.io/ERA_Dataset/)|
 
 ### Visual Question Answering (VQA)
 
 - `Temporal`: Multi-Image Question
 - `Math`: Mathematical Question
 
-|Year|Venue|Keywords|Name|Code/Project|Download|
-|:-:|:-:|:-:|-|-|-|
-|2020|TGRS| |[RSVQA-LR & RSVQA-HR](https://arxiv.org/abs/2003.07333)|[Project](https://rsvqa.sylvainlobry.com)|[link1](https://zenodo.org/records/6344334),[link2](https://zenodo.org/records/6344367)|
-|2021|IGARSS| |[RSVQAxBEN](https://rsvqa.sylvainlobry.com/IGARSS21.pdf)|[Project](https://rsvqa.sylvainlobry.com)|[link](https://zenodo.org/records/5084904)|
-|2021|Access| |[FloodNet](https://ieeexplore.ieee.org/abstract/document/9460988)|[Project](https://github.com/BinaLab/FloodNet-Supervised_v1.0)|[link](https://drive.google.com/drive/folders/1leN9eWVQcvWDVYwNb2GCo5ML_wBEycWD)|
-|2021|TGRS| |[RSIVQA](https://ieeexplore.ieee.org/document/9444570)|[Code](https://github.com/spectralpublic/RSIVQA)|[link](https://github.com/spectralpublic/RSIVQA/tree/main/RSIVQA)|
-|2022|TGRS|`Temporal`|[CDVQA](https://ieeexplore.ieee.org/abstract/document/9901476)|[Project](https://github.com/YZHJessica/CDVQA)|[link](https://github.com/YZHJessica/CDVQA)|
-|2022|IJRS| |[VQA-TextRS](https://www.tandfonline.com/doi/abs/10.1080/01431161.2022.2145583)|N/A|N/A|
-|2022|TGRS| |[CRSVQA](https://ieeexplore.ieee.org/abstract/document/10242124)|[Project](https://github.com/MeimeiZhang-data/MQVQA)|[link](https://drive.google.com/file/d/12DQwGzJ5OQK1rU0T5CmpNN9bEs38x_mQ/view)|
-|2023|arXiv|`Math`|[RemoteCount](https://arxiv.org/abs/2306.11029)|[Code](https://github.com/ChenDelong1999/RemoteCLIP)|N/A|
-|2024|AAAI |`SEG`|[EarthVQA](https://arxiv.org/abs/2312.12222)|[Project](https://junjuewang.top/EarthVQA)|N/A|
+|Year|Venue|Keywords|Name|Download|
+|:-:|:-:|:-:|-|-|
+|2020|TGRS| |[RSVQA-LR & RSVQA-HR](https://arxiv.org/abs/2003.07333)|[Project](https://rsvqa.sylvainlobry.com)|
+|2021|IGARSS| |[RSVQAxBEN](https://rsvqa.sylvainlobry.com/IGARSS21.pdf)|[Project](https://rsvqa.sylvainlobry.com)|
+|2021|Access| |[FloodNet](https://ieeexplore.ieee.org/abstract/document/9460988)|[Project](https://github.com/BinaLab/FloodNet-Supervised_v1.0)|
+|2021|TGRS| |[RSIVQA](https://ieeexplore.ieee.org/document/9444570)|[Code](https://github.com/spectralpublic/RSIVQA)|
+|2022|TGRS|`Temporal`|[CDVQA](https://ieeexplore.ieee.org/abstract/document/9901476)|[Project](https://github.com/YZHJessica/CDVQA)|
+|2022|IJRS| |[VQA-TextRS](https://www.tandfonline.com/doi/abs/10.1080/01431161.2022.2145583)|N/A|
+|2022|TGRS| |[CRSVQA](https://ieeexplore.ieee.org/abstract/document/10242124)|[Project](https://github.com/MeimeiZhang-data/MQVQA)|
+|2023|arXiv|`Math`|[RemoteCount](https://arxiv.org/abs/2306.11029)|[Code](https://github.com/ChenDelong1999/RemoteCLIP)|
+|2024|AAAI |`SEG`|[EarthVQA](https://arxiv.org/abs/2312.12222)|[Project](https://junjuewang.top/EarthVQA)|
 
 ### Visual Grounding
 
@@ -79,59 +80,88 @@ This repository is proposed to facilitate training remote sensing Multimodal lar
 - `OBB`: Oriented Bounding Box
 - `SEG`: Segmentation
 
-|Year|Venue|Keywords|Name|Code/Project|Download|
-|:-:|:-:|:-:|-|-|-|
-|2022|MM|`HBB`|[RSVG](https://dl.acm.org/doi/abs/10.1145/3503161.3548316)|[Project](https://sunyuxi.github.io/publication/GeoVG)|[link](https://drive.google.com/file/d/1kgnmVC6FVKdxCwaoG77sOfkaIHS_XiFt/view)|
-|2023|TGRS|`HBB`|[DIOR-RSVG](https://ieeexplore.ieee.org/abstract/document/10056343)|[Project](https://github.com/ZhanYang-nwpu/RSVG-pytorch)|[link](https://drive.google.com/drive/folders/1hTqtYsC6B-m4ED2ewx5oKuYZV13EoJp_)|
-|2024|ECCV|`HBB`|[GeoText](https://arxiv.org/abs/2311.12751)|[Project](https://multimodalgeo.github.io/GeoText/)|[link](https://huggingface.co/datasets/truemanv5666/GeoText1652_Dataset)|
-|2024|TGRS|`HBB`|[RSVG-HR](https://ieeexplore.ieee.org/abstract/document/10542207)|[Project](https://github.com/LANMNG/LQVG)|N/A|
-|2024|TGRS|`HBB`|[OPT-RSVG](https://ieeexplore.ieee.org/abstract/document/10584552)|[Project](https://github.com/like413/OPT-RSVG)|[link](https://drive.google.com/drive/folders/1e_wOtkruWAB2JXR7aqaMZMrM75IkjqCA)|
-|2024|TGRS|`SEG`|[RRSIS](https://ieeexplore.ieee.org/abstract/document/10458079)|[Code](https://gitlab.lrz.de/ai4eo/reasoning/rrsis)|[link](https://huggingface.co/datasets/JessicaYuan/RefSegRS)|
-|2024|CVPR|`SEG`|[RRSIS-D](https://arxiv.org/abs/2312.12470)|[Code](https://github.com/Lsan2401/RMSIN)|[link](https://drive.google.com/drive/folders/1Xqi3Am2Vgm4a5tHqiV9tfaqKNovcuK3A)|
+|Year|Venue|Keywords|Name|Download|
+|:-:|:-:|:-:|-|-|
+|2022|MM|`HBB`|[RSVG](https://dl.acm.org/doi/abs/10.1145/3503161.3548316)|[Project](https://sunyuxi.github.io/publication/GeoVG)|
+|2023|TGRS|`HBB`|[DIOR-RSVG](https://ieeexplore.ieee.org/abstract/document/10056343)|[Project](https://github.com/ZhanYang-nwpu/RSVG-pytorch)|
+|2024|ECCV|`HBB`|[GeoText](https://arxiv.org/abs/2311.12751)|[Project](https://multimodalgeo.github.io/GeoText/)|
+|2024|TGRS|`HBB`|[RSVG-HR](https://ieeexplore.ieee.org/abstract/document/10542207)|[Project](https://github.com/LANMNG/LQVG)|
+|2024|TGRS|`HBB`|[OPT-RSVG](https://ieeexplore.ieee.org/abstract/document/10584552)|[Project](https://github.com/like413/OPT-RSVG)|
+|2024|TGRS|`SEG`|[RRSIS](https://ieeexplore.ieee.org/abstract/document/10458079)|[Code](https://gitlab.lrz.de/ai4eo/reasoning/rrsis)|
+|2024|CVPR|`SEG`|[RRSIS-D](https://arxiv.org/abs/2312.12470)|[Code](https://github.com/Lsan2401/RMSIN)|
 
 ## Meta Data
 
 ### Classification
-|Year|Venue|Keywords|Name|Code/Project|Download|
-|:-:|:-:|:-:|-|-|-|
-|2017|TGRS| |[AID](https://captain-whu.github.io/AID/)|[Project](https://captain-whu.github.io/AID/)|N/A|
-|2017|Proc. IEEE| |[NWPU-RESISC45](https://ieeexplore.ieee.org/abstract/document/7891544)|[Project](https://gcheng-nwpu.github.io/#Datasets)|N/A|
-|2020|Website| |AiRound|[Project](http://patreo.dcc.ufmg.br/2020/07/22/multi-view-datasets/)|N/A|
-|2020|Website| |airplane_det|[Project](https://aistudio.baidu.com/datasetdetail/131179)|N/A|
-|2020|Sensor| |[CLRS](https://www.mdpi.com/1424-8220/20/4/1226)|[Project]|N/A|[link](https://huggingface.co/datasets/jonathan-roberts1/CLRS)|
-|2021|Website| |ship_det|[Project](https://aistudio.baidu.com/datasetdetail/134218)|N/A|
-|2023|ICCVW| |[SATIN](https://arxiv.org/abs/2304.11619)|[Project](https://satinbenchmark.github.io/)|[link](https://huggingface.co/datasets/jonathan-roberts1/SATIN)|
-
+|Year|Venue|Keywords|Name|Download|
+|:-:|:-:|:-:|-|-|
+|2017|TGRS| |[AID](https://captain-whu.github.io/AID/)|[Project](https://captain-whu.github.io/AID/)|
+|2017|Proc. IEEE| |[NWPU-RESISC45](https://ieeexplore.ieee.org/abstract/document/7891544)|[Project](https://gcheng-nwpu.github.io/#Datasets)|
+|2019|JSTARS| |[EuroSAT](https://ieeexplore.ieee.org/abstract/document/8736785)|[link](https://zenodo.org/records/7711810)|
+|2020|Website| |AiRound|[Project](http://patreo.dcc.ufmg.br/2020/07/22/multi-view-datasets/)|
+|2020|Website| |airplane_det|[Project](https://aistudio.baidu.com/datasetdetail/131179)|
+|2020|Sensor| |[CLRS](https://www.mdpi.com/1424-8220/20/4/1226)|[Project]|[link](https://huggingface.co/datasets/jonathan-roberts1/CLRS)|
+|2021|Website| |ship_det|[Project](https://aistudio.baidu.com/datasetdetail/134218)|
+|2023|ICCVW| |[SATIN](https://arxiv.org/abs/2304.11619)|[Project](https://satinbenchmark.github.io/)|
 
 
 ### Detection
-|Year|Venue|Keywords|Name|Code/Project|Download|
-|:-:|:-:|:-:|-|-|-|
-|2014|ISPRS JPRS| |[NWPU VHR-10](https://www.sciencedirect.com/science/article/abs/pii/S0924271614002524)|[Project](https://gcheng-nwpu.github.io/#Datasets)|N/A|
-|2018|Kaggle| |ASD|[Project](https://www.kaggle.com/c/airbus-ship-detection)|N/A|
-|2020|ISPRS JPRS| |[DIOR](https://www.sciencedirect.com/science/article/abs/pii/S0924271619302825)|[Project](https://gcheng-nwpu.github.io/#Datasets)|N/A|
-|2022|JRS| |[MAR20](https://www.ygxb.ac.cn/en/article/doi/10.11834/jrs.20222139/)|[Project](https://gcheng-nwpu.github.io/#Datasets)|N/A|
-|2023|TPAMI| |[SODA-A](https://ieeexplore.ieee.org/abstract/document/10168277/)|[Project](https://gcheng-nwpu.github.io/#Datasets)|N/A|
+|Year|Venue|Keywords|Name|Download|
+|:-:|:-:|:-:|-|-|
+|2014|ISPRS JPRS| |[NWPU VHR-10](https://www.sciencedirect.com/science/article/abs/pii/S0924271614002524)|[Project](https://gcheng-nwpu.github.io/#Datasets)|
+|2018|CVPR| |[DOTA](https://arxiv.org/abs/1711.10398)|[Project](https://captain-whu.github.io/DOTA/dataset.html)|
+|2018|Kaggle| |ASD|[Project](https://www.kaggle.com/c/airbus-ship-detection)|
+|2020|ISPRS JPRS| |[DIOR](https://www.sciencedirect.com/science/article/abs/pii/S0924271619302825)|[Project](https://gcheng-nwpu.github.io/#Datasets)|
+|2022|JRS| |[MAR20](https://www.ygxb.ac.cn/en/article/doi/10.11834/jrs.20222139/)|[Project](https://gcheng-nwpu.github.io/#Datasets)|
+|2022|ISPRS JPRS| |[FAIR1M](https://www.sciencedirect.com/science/article/abs/pii/S0924271621003269)|[Project](https://gaofen-challenge.com/benchmark)|
+|2023|TPAMI| |[SODA-A](https://ieeexplore.ieee.org/abstract/document/10168277/)|[Project](https://gcheng-nwpu.github.io/#Datasets)|
 
 
 ### Segmentation
-|Year|Venue|Keywords|Name|Code/Project|Download|
-|:-:|:-:|:-:|-|-|-|
-|2020|Website| |BHP Watertanks|[Project](http://patreo.dcc.ufmg.br/2020/07/29/bh-pools-watertanks-datasets/)|N/A|
-|2024|arXiv| |[ChatEarthNet](https://arxiv.org/abs/2402.11325)|[project](https://github.com/zhu-xlab/ChatEarthNet)|[link](https://doi.org/10.5281/zenodo.11003436)|
-|2024|arXiv| |[FineGrip](https://arxiv.org/abs/2404.04608)|N/A|N/A|
+|Year|Venue|Keywords|Name|Download|
+|:-:|:-:|:-:|-|-|
+|2020|Website| |BHP Watertanks|[Project](http://patreo.dcc.ufmg.br/2020/07/29/bh-pools-watertanks-datasets/)|
+|2024|arXiv| |[ChatEarthNet](https://arxiv.org/abs/2402.11325)|[project](https://github.com/zhu-xlab/ChatEarthNet)|
+|2024|arXiv| |[FineGrip](https://arxiv.org/abs/2404.04608)|N/A|
+|2018|RS| |[DLRSD](https://www.mdpi.com/2072-4292/10/6/964)|[Project](https://sites.google.com/view/zhouwx/dataset#h.p_hQS2jYeaFpV0)|
+|2021|TGRS| |[GEONRW](https://ieeexplore.ieee.org/document/9406194)|[Project](https://ieee-dataport.org/open-access/geonrw)|
 
-### Detection
-|Year|Venue|Keywords|Name|Code/Project|Download|
-|:-:|:-:|:-:|-|-|-|
-|2018|ISPRS Archives| |[CDD](https://isprs-archives.copernicus.org/articles/XLII-2/565/2018/)|N/A|[link](https://drive.google.com/file/d/1GX656JqqOyBi_Ef0w65kDGVto-nHrNs9/edit)|
+
+### Change Detection
+|Year|Venue|Keywords|Name|Download|
+|:-:|:-:|:-:|-|-|
+|2018|ISPRS Archives| |[CDD](https://isprs-archives.copernicus.org/articles/XLII-2/565/2018/)|[link](https://drive.google.com/file/d/1GX656JqqOyBi_Ef0w65kDGVto-nHrNs9/edit)|
+|2020|ISPRS JPRS| |[DSIFN](https://www.sciencedirect.com/science/article/abs/pii/S0924271620301532)|[Project](https://github.com/GeoZcx/A-deeply-supervised-image-fusion-network-for-change-detection-in-remote-sensing-images/tree/master/dataset)|
+|2023|GRSL| |[EGY BCD](https://ieeexplore.ieee.org/abstract/document/10145434/)|[Project](https://github.com/oshholail/EGY-BCD)|
+
 
 
 
 
 ||| |[]()|[Project]()|N/A|
-
-
+||| |[]()|[Project]()|N/A|
+||| |[]()|[Project]()|N/A|
+||| |[]()|[Project]()|N/A|
+||| |[]()|[Project]()|N/A|
+||| |[]()|[Project]()|N/A|
+||| |[]()|[Project]()|N/A|
+||| |[]()|[Project]()|N/A|
+||| |[]()|[Project]()|N/A|
+||| |[]()|[Project]()|N/A|
+||| |[]()|[Project]()|N/A|
+||| |[]()|[Project]()|N/A|
+||| |[]()|[Project]()|N/A|
+||| |[]()|[Project]()|N/A|
+||| |[]()|[Project]()|N/A|
+||| |[]()|[Project]()|N/A|
+||| |[]()|[Project]()|N/A|
+||| |[]()|[Project]()|N/A|
+||| |[]()|[Project]()|N/A|
+||| |[]()|[Project]()|N/A|
+||| |[]()|[Project]()|N/A|
+||| |[]()|[Project]()|N/A|
+||| |[]()|[Project]()|N/A|
+||| |[]()|[Project]()|N/A|
 
 
 
