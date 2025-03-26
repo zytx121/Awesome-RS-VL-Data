@@ -91,6 +91,7 @@ This repository is proposed to facilitate training remote sensing Multimodal lar
 |2024|CVPR|`SEG`|[RRSIS-D](https://arxiv.org/abs/2312.12470)|[link](https://github.com/Lsan2401/RMSIN)|
 
 ## Meta Data
+All remote sensing datasets used to construct the above-mentioned SFT datasets.
 
 ### Classification
 |Year|Venue|Keywords|Name|Download|
