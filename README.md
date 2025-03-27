@@ -112,13 +112,14 @@ All remote sensing datasets used to construct the above-mentioned SFT datasets.
 |2018|JPRS| |[PatternNet](https://www.sciencedirect.com/science/article/abs/pii/S0924271618300042)|[link](https://sites.google.com/view/zhouwx/dataset#h.p_hQS2jYeaFpV0)|
 |2018|CVPR| |[fMoW](https://arxiv.org/abs/1711.07846)|[link](https://github.com/fMoW/dataset)|
 |2019|JSTARS| |[EuroSAT](https://ieeexplore.ieee.org/abstract/document/8736785)|[link](https://zenodo.org/records/7711810)|
+|2019|IGARSS| |[BigEarthNet](https://arxiv.org/abs/1902.06148)|[link](https://bigearth.net/)|
 |2020|Website| |AiRound|[link](http://patreo.dcc.ufmg.br/2020/07/22/multi-view-datasets/)|
 |2020|Website| |airplane_det|[link](https://aistudio.baidu.com/datasetdetail/131179)|
 |2020|Sensor| |[CLRS](https://www.mdpi.com/1424-8220/20/4/1226)|[link](https://huggingface.co/datasets/jonathan-roberts1/CLRS)|
 |2020|Sensor| |[RSI-CB](https://arxiv.org/abs/1705.10450)|[link](https://github.com/lehaifeng/RSI-CB)|
 |2020|JPRS| |[MLRSNet](https://www.sciencedirect.com/science/article/abs/pii/S0924271620302677)|[link](https://github.com/cugbrs/MLRSNet)|
 |2021|Website| |ship_det|[link](https://aistudio.baidu.com/datasetdetail/134218)|
-|2021|JSTARS| |[million-AID](https://ieeexplore.ieee.org/abstract/document/9393553)|[link](https://captain-whu.github.io/DiRS/)|
+|2021|JSTARS| |[MillionAID](https://ieeexplore.ieee.org/abstract/document/9393553)|[link](https://captain-whu.github.io/DiRS/)|
 |2021|TGRS| |[MultiScene](https://ieeexplore.ieee.org/abstract/document/9537917)|[link](https://multiscene.github.io/)|
 |2021|JSTARS| |[NaSC TG2](https://ieeexplore.ieee.org/abstract/document/9366968)|[link](https://captain-whu.github.io/BED4RS/)|
 |2021|KSE| |[DSCR](https://ieeexplore.ieee.org/document/9648787)|[link](https://github.com/DYH666/DSCR)|
