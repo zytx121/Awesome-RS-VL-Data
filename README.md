@@ -162,7 +162,10 @@ All remote sensing datasets used to construct the above-mentioned SFT datasets.
 |2021|RS| |[S2-SHIPS](https://www.mdpi.com/2072-4292/13/21/4255)|[link](https://drive.google.com/file/d/1zDgz6wr5kxikPR7o9nJ2IjMcaqwtiLLu/view)|
 |2021|JSTARS| |[ShipRSImagerNet](https://ieeexplore.ieee.org/document/9512396)|[link](https://drive.google.com/file/d/1wApkaSoa9mXRfXQiq6lTtlVrv4cSc6vv/view)|
 |2021|TPAMI| |[VisDrone](https://ieeexplore.ieee.org/abstract/document/9573394)|[link](https://github.com/VisDrone/VisDrone-Dataset)|
+|2021|Website| |Sea-Shipping|[link](http://openai.iraytek.com/apply/Sea_shipping.html/)|
+|2021|Website| |Infrared-Security|[link](http://openai.iraytek.com/apply/Infrared_security.html/)|
 |2021|Website| |Aerial-Mancar|[link](http://openai.iraytek.com/apply/Aerial_mancar.html/)|
+|2021|Website| |Double-Light-Vehicle|[link](http://openai.iraytek.com/apply/Double_light_vehicle.html/)|
 |2022|JR| |[MSAR](https://radars.ac.cn/web/data/getData?dataType=MSAR)|[link](https://radars.ac.cn/web/data/getData?dataType=MSAR_en&pageType=en)|
 |2022|JRS| |[MAR20](https://www.ygxb.ac.cn/en/article/doi/10.11834/jrs.20222139/)|[link](https://gcheng-nwpu.github.io/#Datasets)|
 |2022|JPRS| |[FAIR1M](https://www.sciencedirect.com/science/article/abs/pii/S0924271621003269)|[link](https://gaofen-challenge.com/benchmark)|
