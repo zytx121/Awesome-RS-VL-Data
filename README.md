@@ -25,19 +25,17 @@ This repository is proposed to facilitate training remote sensing Multimodal lar
 |2024|CVPR| |[GeoChat-Instruct](https://arxiv.org/abs/2311.15826)|[link](https://github.com/mbzuai-oryx/geochat)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/5)|
 |2024|JPRS| |[SkyEye-968k](https://arxiv.org/abs/2401.09712)|[link](https://github.com/ZhanYang-nwpu/SkyEyeGPT)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/7)|
 |2024|TGRS| |[MMRS-1M](https://arxiv.org/abs/2401.16822)|[link](https://github.com/wivizhang/EarthGPT)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/8)|
-|2024|arXiv| |[LHRS-Align & LHRS-Instruct](https://arxiv.org/abs/2402.02544)|[link](https://github.com/NJU-LHRS/LHRS-Bot)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/9)|
 |2024|arXiv| |[VLEO-Bench](https://arxiv.org/abs/2401.17600)|[link](https://vleo.danielz.ch/)| |
 |2024|arXiv| |[LuoJiaHOG](https://arxiv.org/abs/2403.10887)|N/A| |
 |2024|arXiv| |[RS-GPT4V](https://arxiv.org/abs/2406.12479)|N/A| |
 |2024|arXiv| |[VRSBench](https://arxiv.org/abs/2406.12384)|[link](https://github.com/lx709/VRSBench)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/1)|
 |2024|arXiv| |[RSTeller](https://arxiv.org/abs/2408.14744)|[link](https://github.com/SlytherinGe/RSTeller/)| |
-|2024|arXiv| |[MME-RealWorld](https://arxiv.org/abs/2408.13257)|[link](https://mme-realworld.github.io/home_page.html)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/11)|
 |2024|arXiv| |[UrBench](https://arxiv.org/abs/2408.17267)|[link](https://opendatalab.github.io/UrBench/)| |
 |2024|arXiv| |[MMM-RS](https://arxiv.org/abs/2410.22362)|[link](https://github.com/ljl5261/MMM-RS)| |
 |2024|arXiv| |[DDFAV](https://arxiv.org/abs/2411.02733)|[link](https://github.com/HaodongLi2024/rspope/)| |
 |2024|arXiv| |[COREval](https://arxiv.org/abs/2411.18145)| |
 |2024|arXiv| |[GEOBench-VLM](https://arxiv.org/abs/2411.19325)|[link](https://github.com/The-AI-Alliance/GEO-Bench-VLM)| |
-|2025|AAAI| |[VersaD & HnstD & VariousRS-Instruct](https://arxiv.org/abs/2403.20213)|[link](https://github.com/opendatalab/VHM)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/10)|
+|2024|TGRS| |[RSVP-3M](https://arxiv.org/abs/2407.13596)|[link](https://github.com/wivizhang/EarthMarker)| |
 |2025|arXiv| |[GeoPixelD](https://arxiv.org/abs/2501.13925)|[link](https://github.com/mbzuai-oryx/GeoPixel)| |
 |2025|arXiv| |[Falcon](https://arxiv.org/abs/2503.11070)|[link](https://github.com/TianHuiLab/Falcon)| |
 
@@ -59,11 +57,17 @@ This repository is proposed to facilitate training remote sensing Multimodal lar
 |2022|TGRS| |[UAV-Captions](https://ieeexplore.ieee.org/document/9521989)|N/A| |
 |2022|TGRS|`Change`|[LEVIR-CC](https://ieeexplore.ieee.org/abstract/document/9934924)|[link](https://github.com/Chen-Yang-Liu/RSICC)| |
 |2022|RS|`Video`|[CapERA](https://www.mdpi.com/2072-4292/15/8/2139)|[link](https://lcmou.github.io/ERA_Dataset/)| |
+|2024|arXiv| |[LHRS-Align & LHRS-Instruct](https://arxiv.org/abs/2402.02544)|[link](https://github.com/NJU-LHRS/LHRS-Bot)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/9)|
+|2025|AAAI| |[VersaD & HnstD & VariousRS-Instruct](https://arxiv.org/abs/2403.20213)|[link](https://github.com/opendatalab/VHM)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/10)|
+
+
 
 ### Visual Question Answering (VQA)
 
 - `Temporal`: Multi-Image Question
 - `Math`: Mathematical Question
+- `HR`: High Resolution Image
+- `SEG`: Provide Segmentation Annotations
 
 |Year|Venue|Keywords|Name|Download|More|
 |:-:|:-:|:-:|-|-|:-:|
@@ -76,6 +80,7 @@ This repository is proposed to facilitate training remote sensing Multimodal lar
 |2022|TGRS| |[CRSVQA](https://ieeexplore.ieee.org/abstract/document/10242124)|[link](https://github.com/MeimeiZhang-data/MQVQA)| |
 |2023|arXiv|`Math`|[RemoteCount](https://arxiv.org/abs/2306.11029)|[link](https://github.com/ChenDelong1999/RemoteCLIP)| |
 |2024|AAAI |`SEG`|[EarthVQA](https://arxiv.org/abs/2312.12222)|[link](https://junjuewang.top/EarthVQA)| |
+|2024|arXiv|`HR`|[MME-RealWorld](https://arxiv.org/abs/2408.13257)|[link](https://mme-realworld.github.io/home_page.html)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/11)|
 
 ### Visual Grounding
 
