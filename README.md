@@ -136,6 +136,7 @@ All remote sensing datasets used to construct the above-mentioned SFT datasets.
 |2018|CVPR| |[fMoW](https://arxiv.org/abs/1711.07846)|[link](https://github.com/fMoW/dataset)|
 |2019|JSTARS| |[EuroSAT](https://ieeexplore.ieee.org/abstract/document/8736785)|[link](https://zenodo.org/records/7711810)|
 |2019|IGARSS| |[BigEarthNet](https://arxiv.org/abs/1902.06148)|[link](https://bigearth.net/)|
+|2019|GRSM| |[So2Sat](https://arxiv.org/abs/1912.12171)|[link](https://mediatum.ub.tum.de/1483140)|
 |2020|Website| |[AiRound](https://ieeexplore.ieee.org/document/9238485)|[link](https://patreo.dcc.ufmg.br/2020/07/22/multi-view-datasets/)|
 |2020|Website| |airplane_det|[link](https://aistudio.baidu.com/datasetdetail/131179)|
 |2020|Sensor| |[CLRS](https://www.mdpi.com/1424-8220/20/4/1226)|[link](https://huggingface.co/datasets/jonathan-roberts1/CLRS)|
@@ -168,7 +169,7 @@ All remote sensing datasets used to construct the above-mentioned SFT datasets.
 |2018|CVPR| |[DOTA](https://arxiv.org/abs/1711.10398)|[link](https://captain-whu.github.io/DOTA/dataset.html)|
 |2018|Kaggle| |ASD|[link](https://www.kaggle.com/c/airbus-ship-detection)|
 |2018|arXiv| |[xView](https://arxiv.org/abs/1802.07856)|[link](https://challenge.xviewdataset.org/download-links)|
-|2018|Website| |DeepGlobe|[link](http://deepglobe.org/)|
+|2018|Website| |[DeepGlobe Detection](https://arxiv.org/abs/1805.06561)|[link](http://deepglobe.org/)|
 |2019|TGRS| |[HRRSD](https://ieeexplore.ieee.org/document/8676107)|[link](https://github.com/CrazyStoneonRoad/TGRS-HRRSD-Dataset)|
 |2019|JR| |[AIR-SARShip-2.0](https://radars.ac.cn/en/article/doi/10.12000/JR19097?viewType=HTML)|[link](https://eod-grss-ieee.com/dataset-detail/aW8xMWU3NHk3QXJuYm8zZnBTWDBSdz09)|
 |2020|JPRS| |[DIOR](https://www.sciencedirect.com/science/article/abs/pii/S0924271619302825)|[link](https://gcheng-nwpu.github.io/#Datasets)|
@@ -204,6 +205,7 @@ All remote sensing datasets used to construct the above-mentioned SFT datasets.
 |2018|RS| |[DLRSD](https://www.mdpi.com/2072-4292/10/6/964)|[link](https://sites.google.com/view/zhouwx/dataset#h.p_hQS2jYeaFpV0)|
 |2018|Website| |Vaihingen|[link](https://www.isprs.org/education/benchmarks/UrbanSemLab/default.aspx)|
 |2018|Website| |Potsdam|[link](https://www.isprs.org/education/benchmarks/UrbanSemLab/default.aspx)|
+|2018|Website| |[DeepGlobe Land Cover](https://arxiv.org/abs/1805.06561)|[link](http://deepglobe.org/)|
 |2019|CVPRW| |[iSAID](https://openaccess.thecvf.com/content_CVPRW_2019/html/DOAI/Zamir_iSAID_A_Large-scale_Dataset_for_Instance_Segmentation_in_Aerial_Images_CVPRW_2019_paper.html)|[link](https://captain-whu.github.io/iSAID/)|
 |2020|Website| |BHP Watertanks|[link](http://patreo.dcc.ufmg.br/2020/07/29/bh-pools-watertanks-datasets/)|
 |2020|RSE| |[GID15](https://www.sciencedirect.com/science/article/abs/pii/S0034425719303414)|[link](https://captain-whu.github.io/GID15/)|N/A|
@@ -224,9 +226,11 @@ All remote sensing datasets used to construct the above-mentioned SFT datasets.
 |:-:|:-:|:-:|-|-|
 |2018|Archives| |[CDD](https://isprs-archives.copernicus.org/articles/XLII-2/565/2018/)|[link](https://drive.google.com/file/d/1GX656JqqOyBi_Ef0w65kDGVto-nHrNs9/edit)|
 |2018|TGRS| |[WHU-CD](https://ieeexplore.ieee.org/document/8444434)|[link](https://gpcv.whu.edu.cn/data/building_dataset.html)|
+|2019|arXiv| |[xBD](https://arxiv.org/abs/1911.09296)|[link](https://github.com/DIUx-xView/xView2_baseline)|
 |2019|CVIU| |[HRSCD](https://www.sciencedirect.com/science/article/abs/pii/S1077314219300992)|[link](https://ieee-dataport.org/open-access/hrscd-high-resolution-semantic-change-detection-dataset)|
 |2020|JPRS| |[DSIFN](https://www.sciencedirect.com/science/article/abs/pii/S0924271620301532)|[link](https://github.com/GeoZcx/A-deeply-supervised-image-fusion-network-for-change-detection-in-remote-sensing-images/tree/master/dataset)|
 |2020|RS| |[LEVIR-CD](https://www.mdpi.com/2072-4292/12/10/1662)|[link](https://opendatalab.com/OpenDataLab/LEVIR-CD)|
+|2021|ICCV| |[PASTIS](https://arxiv.org/abs/2107.07933)|[link](https://github.com/VSainteuf/pastis-benchmark)|
 |2021|RS| |[LEVIR-CD+](https://www.mdpi.com/2072-4292/13/24/5094)|[link](https://github.com/S2Looking/Dataset)|
 |2021|RS| |[S2Looking](https://www.mdpi.com/2072-4292/13/24/5094)|[link](https://github.com/S2Looking/Dataset)|
 |2021|TGRS| |[SYSU-CD](https://ieeexplore.ieee.org/document/9467555)|[link](https://github.com/liumency/DSAMNet)|
@@ -234,5 +238,12 @@ All remote sensing datasets used to construct the above-mentioned SFT datasets.
 |2022|JSTARS| |[MSOSCD](https://ieeexplore.ieee.org/document/9791854)|[link](https://github.com/Lihy256/MSCDUnet)|
 |2022|JPRS| |[NJDS](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001344)|[link](https://drive.google.com/file/d/1cQRWORIgW-X2BaeRo1hvFj7vlQtwnmne/view?userstoinvite=infinitemabel.wq@gmail.com&ts=636c5f76&actionButton=1&pli=1)|
 |2023|GRSL| |[EGY BCD](https://ieeexplore.ieee.org/abstract/document/10145434/)|[link](https://github.com/oshholail/EGY-BCD)|
+|2023|arXiv| |[FPCD](https://arxiv.org/abs/2302.14554)|[link](https://huggingface.co/datasets/ctundia/FPCD)|
 |2024|JRS| |[MtSCCD](https://www.ygxb.ac.cn/en/article/doi/10.11834/jrs.20243210/)|[link](https://sites.google.com/view/zhouwx/dataset)|
+|2023|JPRS| |[GVLM](https://www.sciencedirect.com/science/article/abs/pii/S0924271623000242)|[link](https://github.com/zxk688/GVLM)|
+
+### Others
+|2024|ISCRAM| |[QuakeSet](https://arxiv.org/abs/2403.18116)|[link](https://huggingface.co/datasets/DarthReca/quakeset)|
+
+
 ||| |[]()|[link]()|
