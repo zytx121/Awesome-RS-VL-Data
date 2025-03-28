@@ -21,16 +21,11 @@ This repository is proposed to facilitate training remote sensing Multimodal lar
 |2024|CVPR| |[GeoChat-Instruct](https://arxiv.org/abs/2311.15826)|[link](https://github.com/mbzuai-oryx/geochat)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/5)|
 |2024|JPRS| |[SkyEye-968k](https://arxiv.org/abs/2401.09712)|[link](https://github.com/ZhanYang-nwpu/SkyEyeGPT)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/7)|
 |2024|TGRS| |[MMRS-1M](https://arxiv.org/abs/2401.16822)|[link](https://github.com/wivizhang/EarthGPT)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/8)|
-|2024|arXiv| |[VLEO-Bench](https://arxiv.org/abs/2401.17600)|[link](https://vleo.danielz.ch/)| |
 |2024|arXiv| |[LuoJiaHOG](https://arxiv.org/abs/2403.10887)|N/A| |
 |2024|arXiv| |[RS-GPT4V](https://arxiv.org/abs/2406.12479)|N/A| |
-|2024|arXiv| |[VRSBench](https://arxiv.org/abs/2406.12384)|[link](https://github.com/lx709/VRSBench)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/1)|
 |2024|arXiv| |[RSTeller](https://arxiv.org/abs/2408.14744)|[link](https://github.com/SlytherinGe/RSTeller/)| |
-|2024|arXiv| |[UrBench](https://arxiv.org/abs/2408.17267)|[link](https://opendatalab.github.io/UrBench/)| |
 |2024|arXiv| |[MMM-RS](https://arxiv.org/abs/2410.22362)|[link](https://github.com/ljl5261/MMM-RS)| |
 |2024|arXiv| |[DDFAV](https://arxiv.org/abs/2411.02733)|[link](https://github.com/HaodongLi2024/rspope/)| |
-|2024|arXiv| |[COREval](https://arxiv.org/abs/2411.18145)| |
-|2024|arXiv| |[GEOBench-VLM](https://arxiv.org/abs/2411.19325)|[link](https://github.com/The-AI-Alliance/GEO-Bench-VLM)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/13)|
 |2024|TGRS| |[RSVP](https://arxiv.org/abs/2407.13596)|[link](https://github.com/wivizhang/EarthMarker)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/12)|
 |2024|arXiv| |[LHRS-Align & LHRS-Instruct](https://arxiv.org/abs/2402.02544)|[link](https://github.com/NJU-LHRS/LHRS-Bot)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/9)|
 |2024|arXiv| |[FIT-RS](https://arxiv.org/abs/2406.10100)|[link](https://github.com/Luo-Z13/SkySenseGPT)|
@@ -111,7 +106,12 @@ This repository is proposed to facilitate training remote sensing Multimodal lar
 |2024|ICLR| |[NAIP-OSM](https://arxiv.org/abs/2312.06960)|[link](https://graft.cs.cornell.edu)| |
 |2024|CVPR| |[GeoChat-Bench](https://arxiv.org/abs/2311.15826)|[link](https://github.com/mbzuai-oryx/geochat)| |
 |2024|arXiv| |[LHRS-Bench](https://arxiv.org/abs/2402.02544)|[link](https://github.com/NJU-LHRS/LHRS-Bot)| |
+|2024|arXiv| |[VRSBench](https://arxiv.org/abs/2406.12384)|[link](https://github.com/lx709/VRSBench)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/1)|
 |2024|arXiv| |[FIT-RSFG & FIT-RSRC](https://arxiv.org/abs/2406.10100)|[link](https://github.com/Luo-Z13/SkySenseGPT)|
+|2024|arXiv| |[COREval](https://arxiv.org/abs/2411.18145)| |
+|2024|arXiv| |[VLEO-Bench](https://arxiv.org/abs/2401.17600)|[link](https://vleo.danielz.ch/)| |
+|2024|arXiv| |[UrBench](https://arxiv.org/abs/2408.17267)|[link](https://opendatalab.github.io/UrBench/)| |
+|2024|arXiv| |[GEOBench-VLM](https://arxiv.org/abs/2411.19325)|[link](https://github.com/The-AI-Alliance/GEO-Bench-VLM)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/13)|
 
 
 ## Meta Data
