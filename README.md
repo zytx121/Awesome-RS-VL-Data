@@ -215,9 +215,9 @@ All remote sensing datasets used to construct the above-mentioned SFT datasets.
 |2021|arXiv| |[LoveDA](https://arxiv.org/abs/2110.08733)|[link](https://github.com/Junjue-Wang/LoveDA)|
 |2023|JRS| |[Globe230k](https://spj.science.org/doi/full/10.34133/remotesensing.0078)|[link](https://zenodo.org/records/8429200)|
 |2023|NeurIPS| |[SAMRS](https://arxiv.org/abs/2305.02034)|[link](https://github.com/ViTAE-Transformer/SAMRS)|
+|2023|SR| |[STARCOP](https://www.nature.com/articles/s41598-023-44918-6)|[link](https://github.com/spaceml-org/STARCOP)|
 |2024|arXiv| |[ChatEarthNet](https://arxiv.org/abs/2402.11325)|[link](https://github.com/zhu-xlab/ChatEarthNet)|
 |2024|arXiv| |[FineGrip](https://arxiv.org/abs/2404.04608)|N/A|
-
 
 
 ### Change Detection
@@ -238,8 +238,8 @@ All remote sensing datasets used to construct the above-mentioned SFT datasets.
 |2022|JPRS| |[NJDS](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001344)|[link](https://drive.google.com/file/d/1cQRWORIgW-X2BaeRo1hvFj7vlQtwnmne/view?userstoinvite=infinitemabel.wq@gmail.com&ts=636c5f76&actionButton=1&pli=1)|
 |2023|GRSL| |[EGY BCD](https://ieeexplore.ieee.org/abstract/document/10145434/)|[link](https://github.com/oshholail/EGY-BCD)|
 |2023|arXiv| |[FPCD](https://arxiv.org/abs/2302.14554)|[link](https://huggingface.co/datasets/ctundia/FPCD)|
-|2024|JRS| |[MtSCCD](https://www.ygxb.ac.cn/en/article/doi/10.11834/jrs.20243210/)|[link](https://sites.google.com/view/zhouwx/dataset)|
 |2023|JPRS| |[GVLM](https://www.sciencedirect.com/science/article/abs/pii/S0924271623000242)|[link](https://github.com/zxk688/GVLM)|
+|2024|JRS| |[MtSCCD](https://www.ygxb.ac.cn/en/article/doi/10.11834/jrs.20243210/)|[link](https://sites.google.com/view/zhouwx/dataset)|
 |2024|ECCV| |[MUDS](https://link.springer.com/chapter/10.1007/978-3-031-72904-1_16)|[link](https://www.kaggle.com/datasets/farahchouikhi/muds-dataset)|
 
 
