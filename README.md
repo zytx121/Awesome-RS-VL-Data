@@ -37,7 +37,7 @@ This repository is proposed to facilitate training remote sensing Multimodal lar
 |2025|arXiv| |[GeoPixelD](https://arxiv.org/abs/2501.13925)|[link](https://github.com/mbzuai-oryx/GeoPixel)| |
 |2025|arXiv| |[Falcon](https://arxiv.org/abs/2503.11070)|[link](https://github.com/TianHuiLab/Falcon)| |
 |2025|AAAI| |[VersaD & HnstD & VariousRS-Instruct](https://arxiv.org/abs/2403.20213)|[link](https://github.com/opendatalab/VHM)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/10)|
-
+|2024|arXiv| |[EarthDial-Instruct](https://arxiv.org/pdf/2412.15190)|N/A| |
 
 
 ## Task-specific SFT
@@ -174,6 +174,7 @@ All remote sensing datasets used to construct the above-mentioned SFT datasets.
 |2020|ICRA| |[AU-AIR](https://arxiv.org/abs/2001.11737)|[link](https://bozcani.github.io/auairdataset)|
 |2020|Access| |[HRSID](https://ieeexplore.ieee.org/document/9127939)|[link](https://github.com/chaozhong2010/HRSID)|
 |2020|Website| |Oceanic-Ship|[link](http://www.gxzx.sdu.edu.cn/info/1133/2174.htm/)|
+|2020|Website| |RarePlanes|[link](https://www.iqt.org/library/the-rareplanes-dataset)|
 |2021|Website| |Forest Damages|[link](https://lila.science/datasets/forest-damages-larch-casebearer/)|
 |2021|RS| |[S2-SHIPS](https://www.mdpi.com/2072-4292/13/21/4255)|[link](https://drive.google.com/file/d/1zDgz6wr5kxikPR7o9nJ2IjMcaqwtiLLu/view)|
 |2021|JSTARS| |[ShipRSImagerNet](https://ieeexplore.ieee.org/document/9512396)|[link](https://drive.google.com/file/d/1wApkaSoa9mXRfXQiq6lTtlVrv4cSc6vv/view)|
@@ -182,6 +183,7 @@ All remote sensing datasets used to construct the above-mentioned SFT datasets.
 |2021|Website| |Infrared-Security|[link](http://openai.iraytek.com/apply/Infrared_security.html/)|
 |2021|Website| |Aerial-Mancar|[link](http://openai.iraytek.com/apply/Aerial_mancar.html/)|
 |2021|Website| |Double-Light-Vehicle|[link](http://openai.iraytek.com/apply/Double_light_vehicle.html/)|
+|2021|Website| |Marine Debris|[link](https://cmr.earthdata.nasa.gov/search/concepts/C2781412735-MLHUB.html)|
 |2022|JR| |[MSAR](https://radars.ac.cn/web/data/getData?dataType=MSAR)|[link](https://radars.ac.cn/web/data/getData?dataType=MSAR_en&pageType=en)|
 |2022|JRS| |[MAR20](https://www.ygxb.ac.cn/en/article/doi/10.11834/jrs.20222139/)|[link](https://gcheng-nwpu.github.io/#Datasets)|
 |2022|JPRS| |[FAIR1M](https://www.sciencedirect.com/science/article/abs/pii/S0924271621003269)|[link](https://gaofen-challenge.com/benchmark)|
@@ -190,6 +192,8 @@ All remote sensing datasets used to construct the above-mentioned SFT datasets.
 |2023|TPAMI| |[SODA-A](https://ieeexplore.ieee.org/abstract/document/10168277/)|[link](https://gcheng-nwpu.github.io/#Datasets)|
 |2023|SD| |[HIT-UAV](https://www.nature.com/articles/s41597-023-02066-6)|[link](https://github.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset)|
 |2024||Website|Deforestation|[link](https://universe.roboflow.com/cse499deforestationsatellite/deforestation-satellite-imagery-335n4)|
+
+
 
 
 ### Segmentation
