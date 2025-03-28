@@ -247,4 +247,5 @@ All remote sensing datasets used to construct the above-mentioned SFT datasets.
 |:-:|:-:|:-:|-|-|
 |2018|arXiv| |[SEN1-2](https://arxiv.org/abs/1807.01569)|[link](https://mediatum.ub.tum.de/1436631)|
 |2024|ISCRAM| |[QuakeSet](https://arxiv.org/abs/2403.18116)|[link](https://huggingface.co/datasets/DarthReca/quakeset)|
+|2025|TPAMI| |[STAR](https://arxiv.org/abs/2406.09410)|[link](https://linlin-dev.github.io/project/STAR)|
 ||| |[]()|[link]()|
