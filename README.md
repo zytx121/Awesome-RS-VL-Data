@@ -4,6 +4,8 @@
 # Awesome-RS-SFT-Data
 This repository is proposed to facilitate training remote sensing Multimodal large language models (RS-MLLMs) by recommending high-quality supervised fine-tuning (SFT) data. If you find any work missing or have any suggestions, feel free to [pull requests](https://github.com/zytx121/Awesome-RS-SFT-Data/pulls).
 
+Inspired by the [JE](https://github.com/zytx121/je) project, we have adopted **GitHub Issues** to manage our datasets. With the help of **Labels**, it's easy to filter and locate the datasets we need. We also encourage users to join the **discussion under each issue**—sharing their experiences, feedback, and whether they would recommend the dataset to others.
+
 ## Summary of Contents
 
 - [Summary of Contents](#summary-of-contents)
