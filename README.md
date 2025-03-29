@@ -30,9 +30,8 @@ This repository is proposed to facilitate training remote sensing Multimodal lar
 |2025|arXiv| |[GeoPixelD](https://arxiv.org/abs/2501.13925)|[link](https://github.com/mbzuai-oryx/GeoPixel)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/20)|
 |2025|arXiv| |[Falcon_SFT](https://arxiv.org/abs/2503.11070)|[link](https://github.com/TianHuiLab/Falcon)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/21)|
 |2025|AAAI| |[VersaD & HnstD & VariousRS-Instruct](https://arxiv.org/abs/2403.20213)|[link](https://github.com/opendatalab/VHM)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/10)|
-|2025|ICASSP| |[ChangeChat-87k](https://ieeexplore.ieee.org/abstract/document/10890620)|[link](https://github.com/hanlinwu/ChangeChat)| |
 |2025|ICLR| |[TEOChatlas](https://arxiv.org/abs/2410.06234)|[link](https://github.com/ermongroup/TEOChat)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/25)|
-
+|2025|ICASSP| |[ChangeChat-87k](https://ieeexplore.ieee.org/abstract/document/10890620)|[link](https://github.com/hanlinwu/ChangeChat)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/26)|
 
 
 ## Comprehensive Benchmark
