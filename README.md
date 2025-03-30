@@ -161,6 +161,10 @@ All remote sensing datasets used to construct the above-mentioned SFT datasets.
 
 
 ### Detection
+
+- `SAR`: Synthetic Aperture Radar
+- `IR`: Infrared 
+
 |Year|Venue|Keywords|Name|Download|
 |:-:|:-:|:-:|-|-|
 |2012|TPAMI| |[SZTAKI](https://ieeexplore.ieee.org/document/5766001)|[link](http://web.eee.sztaki.hu/remotesensing/building_benchmark.html)|
@@ -172,17 +176,17 @@ All remote sensing datasets used to construct the above-mentioned SFT datasets.
 |2017|TGRS| |[RSOD](https://ieeexplore.ieee.org/abstract/document/7827088)|[link](https://github.com/RSIA-LIESMARS-WHU/RSOD-Dataset-)|
 |2017|TIP| |[LEVIR](https://ieeexplore.ieee.org/document/8106808)|[link](https://pan.baidu.com/s/1geTwAVD)|
 |2017|ICCV| |[CARPK](https://arxiv.org/abs/1707.05972)|[link](https://lafi.github.io/LPN/)|
-|2017|BIGSARDATA| |[SSDD](https://ieeexplore.ieee.org/document/8124934)|[link](https://opendatalab.com/OpenDataLab/SSDD)|
+|2017|BIGSARDATA|`SAR`|[SSDD](https://ieeexplore.ieee.org/document/8124934)|[link](https://opendatalab.com/OpenDataLab/SSDD)|
 |2018|CVPR| |[DOTA](https://arxiv.org/abs/1711.10398)|[link](https://captain-whu.github.io/DOTA/dataset.html)|
 |2018|Kaggle| |ASD|[link](https://www.kaggle.com/c/airbus-ship-detection)|
 |2018|arXiv| |[xView](https://arxiv.org/abs/1802.07856)|[link](https://challenge.xviewdataset.org/download-links)|
 |2018|Website| |[DeepGlobe Detection](https://arxiv.org/abs/1805.06561)|[link](http://deepglobe.org/)|
 |2019|TGRS| |[HRRSD](https://ieeexplore.ieee.org/document/8676107)|[link](https://github.com/CrazyStoneonRoad/TGRS-HRRSD-Dataset)|
-|2019|JR| |[AIR-SARShip-2.0](https://radars.ac.cn/en/article/doi/10.12000/JR19097?viewType=HTML)|[link](https://eod-grss-ieee.com/dataset-detail/aW8xMWU3NHk3QXJuYm8zZnBTWDBSdz09)|
+|2019|JR|`SAR`|[AIR-SARShip-2.0](https://radars.ac.cn/en/article/doi/10.12000/JR19097?viewType=HTML)|[link](https://eod-grss-ieee.com/dataset-detail/aW8xMWU3NHk3QXJuYm8zZnBTWDBSdz09)|
 |2019|MEE| |[AerialAnimal](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13277)|[link](https://huggingface.co/datasets/danielz01/aerial-animal-population-4tu)|
 |2020|JPRS| |[DIOR](https://www.sciencedirect.com/science/article/abs/pii/S0924271619302825)|[link](https://gcheng-nwpu.github.io/#Datasets)|
 |2020|ICRA| |[AU-AIR](https://arxiv.org/abs/2001.11737)|[link](https://bozcani.github.io/auairdataset)|
-|2020|Access| |[HRSID](https://ieeexplore.ieee.org/document/9127939)|[link](https://github.com/chaozhong2010/HRSID)|
+|2020|Access|`SAR`|[HRSID](https://ieeexplore.ieee.org/document/9127939)|[link](https://github.com/chaozhong2010/HRSID)|
 |2020|Website| |Oceanic-Ship|[link](http://www.gxzx.sdu.edu.cn/info/1133/2174.htm/)|
 |2020|Website| |RarePlanes|[link](https://www.iqt.org/library/the-rareplanes-dataset)|
 |2021|Website| |Forest Damages|[link](https://lila.science/datasets/forest-damages-larch-casebearer/)|
@@ -190,12 +194,13 @@ All remote sensing datasets used to construct the above-mentioned SFT datasets.
 |2021|JSTARS| |[ShipRSImagerNet](https://ieeexplore.ieee.org/document/9512396)|[link](https://drive.google.com/file/d/1wApkaSoa9mXRfXQiq6lTtlVrv4cSc6vv/view)|
 |2021|TPAMI| |[VisDrone](https://ieeexplore.ieee.org/abstract/document/9573394)|[link](https://github.com/VisDrone/VisDrone-Dataset)|
 |2021|Website| |Sea-Shipping|[link](http://openai.iraytek.com/apply/Sea_shipping.html/)|
-|2021|Website| |Infrared-Security|[link](http://openai.iraytek.com/apply/Infrared_security.html/)|
+|2021|Website|`IR`|Infrared-Security|[link](http://openai.iraytek.com/apply/Infrared_security.html/)|
 |2021|Website| |Aerial-Mancar|[link](http://openai.iraytek.com/apply/Aerial_mancar.html/)|
 |2021|Website| |Double-Light-Vehicle|[link](http://openai.iraytek.com/apply/Double_light_vehicle.html/)|
 |2021|Website| |Marine Debris|[link](https://cmr.earthdata.nasa.gov/search/concepts/C2781412735-MLHUB.html)|
 |2021|PCBI| |[NEON-Tree](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009180)|[link](https://zenodo.org/records/5914554#.ZAxCQXZBwdV)|
-|2022|JR| |[MSAR](https://radars.ac.cn/web/data/getData?dataType=MSAR)|[link](https://radars.ac.cn/web/data/getData?dataType=MSAR_en&pageType=en)|
+|2021|RS|`SAR`|[SRSDD](https://www.mdpi.com/2072-4292/13/24/5104)|[link](https://github.com/HeuristicLU/SRSDD-V1.0)|
+|2022|JR|`SAR`|[MSAR](https://radars.ac.cn/web/data/getData?dataType=MSAR)|[link](https://radars.ac.cn/web/data/getData?dataType=MSAR_en&pageType=en)|
 |2022|JRS| |[MAR20](https://www.ygxb.ac.cn/en/article/doi/10.11834/jrs.20222139/)|[link](https://gcheng-nwpu.github.io/#Datasets)|
 |2022|JPRS| |[FAIR1M](https://www.sciencedirect.com/science/article/abs/pii/S0924271621003269)|[link](https://gaofen-challenge.com/benchmark)|
 |2022|IJGI| |[VHRShips](https://www.mdpi.com/2220-9964/11/8/445)|[link](https://github.com/radres333/VHRShips)|
@@ -203,7 +208,7 @@ All remote sensing datasets used to construct the above-mentioned SFT datasets.
 |2023|TPAMI| |[SODA-A](https://ieeexplore.ieee.org/abstract/document/10168277/)|[link](https://gcheng-nwpu.github.io/#Datasets)|
 |2023|SD| |[HIT-UAV](https://www.nature.com/articles/s41597-023-02066-6)|[link](https://github.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset)|
 |2024||Website|Deforestation|[link](https://universe.roboflow.com/cse499deforestationsatellite/deforestation-satellite-imagery-335n4)|
-
+|2025|CVPR|`SAR`|[RSAR](https://arxiv.org/abs/2501.04440)|[link](https://github.com/zhasion/RSAR)|
 
 
 ### Segmentation
