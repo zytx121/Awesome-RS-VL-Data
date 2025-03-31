@@ -119,6 +119,7 @@ All remote sensing datasets used to construct the above-mentioned SFT datasets.
 |2015|GRSL| |[RSSCN7](https://ieeexplore.ieee.org/abstract/document/7272047)|[link](https://github.com/palewithout/RSSCN7)|
 |2015|TGRS| |[SIRI-WHU](https://ieeexplore.ieee.org/document/7329997)|[link](https://huggingface.co/datasets/jonathan-roberts1/SIRI-WHU)|
 |2015|SIGSPATIAL| |[SAT-4 & SAT-6](https://dl.acm.org/doi/10.1145/2820783.2820816)|[link](https://csc.lsu.edu/~saikat/deepsat/)|
+|2015|TGRS| |[Sydney](https://ieeexplore.ieee.org/document/6910306)|N/A|
 |2016|JARS| |[RS C11](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-10/issue-3/035004/Feature-significance-based-multibag-of-visual-words-model-for-remote/10.1117/1.JRS.10.035004.short)|[link](https://huggingface.co/datasets/jonathan-roberts1/RS_C11)|
 |2017|TGRS| |[RSD46-WHU](https://ieeexplore.ieee.org/abstract/document/7827088)|[link](https://huggingface.co/datasets/jonathan-roberts1/RSD46-WHU)|
 |2017|TGRS| |[AID](https://captain-whu.github.io/AID/)|[link](https://captain-whu.github.io/AID/)|
