@@ -174,6 +174,7 @@ All remote sensing datasets used to construct the above-mentioned SFT datasets.
 |2018|Kaggle| |ASD|[link](https://www.kaggle.com/c/airbus-ship-detection)|
 |2018|arXiv| |[xView](https://arxiv.org/abs/1802.07856)|[link](https://challenge.xviewdataset.org/download-links)|
 |2018|Website| |[DeepGlobe Detection](https://arxiv.org/abs/1805.06561)|[link](http://deepglobe.org/)|
+|2018|ICIP| |[ITCVD](https://ieeexplore.ieee.org/abstract/document/8451454)|[link](https://research.utwente.nl/en/datasets/itcvd-dataset)|
 |2019|TGRS| |[HRRSD](https://ieeexplore.ieee.org/document/8676107)|[link](https://github.com/CrazyStoneonRoad/TGRS-HRRSD-Dataset)|
 |2019|JR|`SAR`|[AIR-SARShip-2.0](https://radars.ac.cn/en/article/doi/10.12000/JR19097?viewType=HTML)|[link](https://eod-grss-ieee.com/dataset-detail/aW8xMWU3NHk3QXJuYm8zZnBTWDBSdz09)|
 |2019|MEE| |[AerialAnimal](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13277)|[link](https://huggingface.co/datasets/danielz01/aerial-animal-population-4tu)|
@@ -205,6 +206,7 @@ All remote sensing datasets used to construct the above-mentioned SFT datasets.
 |2025|CVPR|`SAR`|[RSAR](https://arxiv.org/abs/2501.04440)|[link](https://github.com/zhasion/RSAR)|
 
 
+
 ### Segmentation
 |Year|Venue|Keywords|Name|Download|
 |:-:|:-:|:-:|-|-|
@@ -212,6 +214,7 @@ All remote sensing datasets used to construct the above-mentioned SFT datasets.
 |2018|RS| |[DLRSD](https://www.mdpi.com/2072-4292/10/6/964)|[link](https://sites.google.com/view/zhouwx/dataset#h.p_hQS2jYeaFpV0)|
 |2018|Website| |Vaihingen|[link](https://www.isprs.org/education/benchmarks/UrbanSemLab/default.aspx)|
 |2018|Website| |Potsdam|[link](https://www.isprs.org/education/benchmarks/UrbanSemLab/default.aspx)|
+|2018|Website| |Toronto|[link](https://www.isprs.org/education/benchmarks/UrbanSemLab/Default.aspx)|
 |2018|Website| |[DeepGlobe Land Cover](https://arxiv.org/abs/1805.06561)|[link](http://deepglobe.org/)|
 |2019|CVPRW| |[iSAID](https://openaccess.thecvf.com/content_CVPRW_2019/html/DOAI/Zamir_iSAID_A_Large-scale_Dataset_for_Instance_Segmentation_in_Aerial_Images_CVPRW_2019_paper.html)|[link](https://captain-whu.github.io/iSAID/)|
 |2019|ICCV| |[SkyScapes](https://openaccess.thecvf.com/content_ICCV_2019/html/Azimi_SkyScapes__Fine-Grained_Semantic_Understanding_of_Aerial_Scenes_ICCV_2019_paper.html)|[link](https://www.dlr.de/en/eoc/about-us/remote-sensing-technology-institute/photogrammetry-and-image-analysis/public-datasets/dlr-skyscapes)|
@@ -221,6 +224,7 @@ All remote sensing datasets used to construct the above-mentioned SFT datasets.
 |2020|JPRS| |[UAVid](https://www.sciencedirect.com/science/article/abs/pii/S0924271620301295)|[link](https://uavid.nl/)|
 |2021|TGRS| |[GEONRW](https://ieeexplore.ieee.org/document/9406194)|[link](https://ieee-dataport.org/open-access/geonrw)|
 |2021|arXiv| |[LoveDA](https://arxiv.org/abs/2110.08733)|[link](https://github.com/Junjue-Wang/LoveDA)|
+|2022|ML| |[MiniFrance](https://link.springer.com/article/10.1007/s10994-020-05943-y)|[link](https://ieee-dataport.org/open-access/minifrance)|
 |2023|JRS| |[Globe230k](https://spj.science.org/doi/full/10.34133/remotesensing.0078)|[link](https://zenodo.org/records/8429200)|
 |2023|NeurIPS| |[SAMRS](https://arxiv.org/abs/2305.02034)|[link](https://github.com/ViTAE-Transformer/SAMRS)|
 |2023|SR| |[STARCOP](https://www.nature.com/articles/s41598-023-44918-6)|[link](https://github.com/spaceml-org/STARCOP)|
@@ -253,6 +257,7 @@ All remote sensing datasets used to construct the above-mentioned SFT datasets.
 |2024|JRS| |[MtSCCD](https://www.ygxb.ac.cn/en/article/doi/10.11834/jrs.20243210/)|[link](https://sites.google.com/view/zhouwx/dataset)|
 |2024|ECCV| |[MUDS](https://link.springer.com/chapter/10.1007/978-3-031-72904-1_16)|[link](https://www.kaggle.com/datasets/farahchouikhi/muds-dataset)|
 |2024|TGRS| |[LEVIR-MCI](https://ieeexplore.ieee.org/abstract/document/10591792)|[link](https://github.com/Chen-Yang-Liu/Change-Agent)|
+
 
 
 ### Others
