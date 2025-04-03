@@ -124,12 +124,11 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 
 
 ## Meta Data
-All remote sensing datasets used to construct the above-mentioned SFT datasets.
-
-**Usage Demo:**
+All remote sensing datasets used to construct the above-mentioned VL datasets. Note that we do not include the metadata in the issue.
 
 If you want to see how many datasets used the `xBD` metadata during construction, 
-refer to the following link: https://github.com/zytx121/Awesome-RS-SFT-Data/issues?q=is%3Aissue%20state%3Aopen%20xBD
+
+**Usage Demo:** https://github.com/zytx121/Awesome-RS-SFT-Data/issues?q=is%3Aissue%20state%3Aopen%20xBD
 
 
 ### Classification
