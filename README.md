@@ -225,6 +225,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2023|TPAMI| |[SODA-A](https://ieeexplore.ieee.org/abstract/document/10168277/)|[link](https://gcheng-nwpu.github.io/#Datasets)|
 |2023|SD| |[HIT-UAV](https://www.nature.com/articles/s41597-023-02066-6)|[link](https://github.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset)|
 |2024|Website| |Deforestation|[link](https://universe.roboflow.com/cse499deforestationsatellite/deforestation-satellite-imagery-335n4)|
+|2025|TPAMI|`SGG`|[STAR](https://arxiv.org/abs/2406.09410)|[link](https://linlin-dev.github.io/project/STAR)|
 |2025|CVPR|`SAR`|[RSAR](https://arxiv.org/abs/2501.04440)|[link](https://github.com/zhasion/RSAR)|
 |2025|arXiv|`Attrs`|[EVAttrs-95K](https://arxiv.org/pdf/2503.23330)|[link](https://github.com/XiangTodayEatsWhat/EagleVision?tab=readme-ov-file)|
 
@@ -295,6 +296,5 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2020|GRSM|`ER`|[ERA](https://arxiv.org/abs/2001.11394)|[link](https://lcmou.github.io/ERA_Dataset/)|
 |2023|ICCV| |[SatlasPretrain](https://arxiv.org/abs/2211.15660)|[link](https://satlas-pretrain.allen.ai/)|
 |2024|ISCRAM| |[QuakeSet](https://arxiv.org/abs/2403.18116)|[link](https://huggingface.co/datasets/DarthReca/quakeset)|
-|2025|TPAMI|`SGG`|[STAR](https://arxiv.org/abs/2406.09410)|[link](https://linlin-dev.github.io/project/STAR)|
 |2024|LNCS| |[TreeSatAI-TS](https://link.springer.com/chapter/10.1007/978-3-031-73390-1_24)|[link](https://github.com/gastruc/OmniSat)|
 ||| |[]()|[link]()|
