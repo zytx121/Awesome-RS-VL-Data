@@ -68,7 +68,8 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 
 ## Task-specific SFT
 
-### Image Captioning
+
+### Image Captioning / Retrieval
 
 |Year|Venue|Name|Download|More|
 |:-:|:-:|-|-|:-:|
