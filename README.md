@@ -32,7 +32,7 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |Year|Venue|Country|Name|Download|More|
 |:-:|:-:|:-:|-|-|:-:|
 |2024|CVPR|United Arab Emirates|[GeoChat-Instruct](https://arxiv.org/abs/2311.15826)|[link](https://github.com/mbzuai-oryx/geochat)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/5)|
-|2024|JPRS|China|[SkyEye-968k](https://arxiv.org/abs/2401.09712)|[link](https://github.com/ZhanYang-nwpu/SkyEyeGPT)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/7)|
+|2024|ISPRS|China|[SkyEye-968k](https://arxiv.org/abs/2401.09712)|[link](https://github.com/ZhanYang-nwpu/SkyEyeGPT)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/7)|
 |2024|TGRS|China|[MMRS-1M](https://arxiv.org/abs/2401.16822)|[link](https://github.com/wivizhang/EarthGPT)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/8)|
 |2024|NeurIPS|Saudi Arabia|[VRSBench-Train](https://arxiv.org/abs/2406.12384)|[link](https://github.com/lx709/VRSBench)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/23)|
 |2024|arXiv|China|[RS-GPT4V](https://arxiv.org/abs/2406.12479)|[link](https://pan.baidu.com/share/init?surl=Fz0KDpgp-_33BN8XTyQlBQ&pwd=5jny)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/14)|
@@ -93,7 +93,7 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2024|AAAI|United States|[SkyScript](https://arxiv.org/abs/2312.12856)|[link](https://github.com/wangzhecheng/SkyScript)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/6)|
 |2024|arXiv|China|[RSTeller](https://arxiv.org/abs/2408.14744)|[link](https://github.com/SlytherinGe/RSTeller/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/15)|
 |2024|NeurIPS|China|[MMM-RS](https://arxiv.org/abs/2410.22362)|[link](https://github.com/ljl5261/MMM-RS)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/16)|
-|2025|JPRS|China|[LuoJiaHOG](https://arxiv.org/abs/2403.10887)|N/A|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/56)|
+|2025|ISPRS|China|[LuoJiaHOG](https://arxiv.org/abs/2403.10887)|N/A|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/56)|
 |2025|arXiv|China|[LRS2M](https://arxiv.org/abs/2503.19311)|[link](https://github.com/MitsuiChen14/LRSCLIP)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/66)|
 
 
@@ -158,7 +158,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2018|Website| |Hefei|[link](https://aistudio.baidu.com/datasetdetail/88597)|
 |2018|DP| |[Hurricane Damage](https://arxiv.org/abs/1807.01688)|[link](https://huggingface.co/datasets/jonathan-roberts1/Satellite-Images-of-Hurricane-Damage)|
 |2018|TGRS| |[OPTIMAL31](https://ieeexplore.ieee.org/document/8454883)|[link](https://huggingface.co/datasets/jonathan-roberts1/Optimal-31)|
-|2018|JPRS| |[PatternNet](https://www.sciencedirect.com/science/article/abs/pii/S0924271618300042)|[link](https://sites.google.com/view/zhouwx/dataset#h.p_hQS2jYeaFpV0)|
+|2018|ISPRS| |[PatternNet](https://www.sciencedirect.com/science/article/abs/pii/S0924271618300042)|[link](https://sites.google.com/view/zhouwx/dataset#h.p_hQS2jYeaFpV0)|
 |2018|CVPR| |[fMoW](https://arxiv.org/abs/1711.07846)|[link](https://github.com/fMoW/dataset)|
 |2019|JSTARS| |[EuroSAT](https://ieeexplore.ieee.org/abstract/document/8736785)|[link](https://zenodo.org/records/7711810)|
 |2019|IGARSS| |[BigEarthNet](https://arxiv.org/abs/1902.06148)|[link](https://bigearth.net/)|
@@ -167,7 +167,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2020|Website| |airplane_det|[link](https://aistudio.baidu.com/datasetdetail/131179)|
 |2020|Sensor| |[CLRS](https://www.mdpi.com/1424-8220/20/4/1226)|[link](https://huggingface.co/datasets/jonathan-roberts1/CLRS)|
 |2020|Sensor| |[RSI-CB](https://arxiv.org/abs/1705.10450)|[link](https://github.com/lehaifeng/RSI-CB)|
-|2020|JPRS| |[MLRSNet](https://www.sciencedirect.com/science/article/abs/pii/S0924271620302677)|[link](https://github.com/cugbrs/MLRSNet)|
+|2020|ISPRS| |[MLRSNet](https://www.sciencedirect.com/science/article/abs/pii/S0924271620302677)|[link](https://github.com/cugbrs/MLRSNet)|
 |2021|Website| |ship_det|[link](https://aistudio.baidu.com/datasetdetail/134218)|
 |2021|JSTARS| |[MillionAID](https://ieeexplore.ieee.org/abstract/document/9393553)|[link](https://captain-whu.github.io/DiRS/)|
 |2021|TGRS| |[MultiScene](https://ieeexplore.ieee.org/abstract/document/9537917)|[link](https://multiscene.github.io/)|
@@ -191,7 +191,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |Year|Venue|Keywords|Name|Download|
 |:-:|:-:|:-:|-|-|
 |2012|TPAMI| |[SZTAKI](https://ieeexplore.ieee.org/document/5766001)|[link](http://web.eee.sztaki.hu/remotesensing/building_benchmark.html)|
-|2014|JPRS| |[NWPU VHR-10](https://www.sciencedirect.com/science/article/abs/pii/S0924271614002524)|[link](https://gcheng-nwpu.github.io/#Datasets)|
+|2014|ISPRS| |[NWPU VHR-10](https://www.sciencedirect.com/science/article/abs/pii/S0924271614002524)|[link](https://gcheng-nwpu.github.io/#Datasets)|
 |2015|ICIP| |[UCAS-AOD](https://ieeexplore.ieee.org/document/7351502)|[link](https://github.com/ming71/UCAS-AOD-benchmark)|
 |2016|ECCV| |[S-Drone](https://link.springer.com/chapter/10.1007/978-3-319-46484-8_33)|[link](https://cvgl.stanford.edu/projects/uav_data/)|
 |2016|ECCV| |[COWC](https://arxiv.org/abs/1609.04453)|[link](https://gdo152.llnl.gov/cowc/)|
@@ -209,7 +209,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2019|JR|`SAR`|[AIR-SARShip-2.0](https://radars.ac.cn/en/article/doi/10.12000/JR19097?viewType=HTML)|[link](https://eod-grss-ieee.com/dataset-detail/aW8xMWU3NHk3QXJuYm8zZnBTWDBSdz09)|
 |2019|MEE| |[AerialAnimal](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13277)|[link](https://huggingface.co/datasets/danielz01/aerial-animal-population-4tu)|
 |2019|Website|SPCD||[link](https://www.kaggle.com/datasets/kbhartiya83/swimming-pool-and-car-detection)|
-|2020|JPRS| |[DIOR](https://www.sciencedirect.com/science/article/abs/pii/S0924271619302825)|[link](https://gcheng-nwpu.github.io/#Datasets)|
+|2020|ISPRS| |[DIOR](https://www.sciencedirect.com/science/article/abs/pii/S0924271619302825)|[link](https://gcheng-nwpu.github.io/#Datasets)|
 |2020|ICRA| |[AU-AIR](https://arxiv.org/abs/2001.11737)|[link](https://bozcani.github.io/auairdataset)|
 |2020|Access|`SAR`|[HRSID](https://ieeexplore.ieee.org/document/9127939)|[link](https://github.com/chaozhong2010/HRSID)|
 |2020|Website| |Oceanic-Ship|[link](http://www.gxzx.sdu.edu.cn/info/1133/2174.htm/)|
@@ -227,7 +227,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2021|RS|`SAR`|[SRSDD](https://www.mdpi.com/2072-4292/13/24/5104)|[link](https://github.com/HeuristicLU/SRSDD-V1.0)|
 |2022|JR|`SAR`|[MSAR](https://radars.ac.cn/web/data/getData?dataType=MSAR)|[link](https://radars.ac.cn/web/data/getData?dataType=MSAR_en&pageType=en)|
 |2022|JRS| |[MAR20](https://www.ygxb.ac.cn/en/article/doi/10.11834/jrs.20222139/)|[link](https://gcheng-nwpu.github.io/#Datasets)|
-|2022|JPRS| |[FAIR1M](https://www.sciencedirect.com/science/article/abs/pii/S0924271621003269)|[link](https://gaofen-challenge.com/benchmark)|
+|2022|ISPRS| |[FAIR1M](https://www.sciencedirect.com/science/article/abs/pii/S0924271621003269)|[link](https://gaofen-challenge.com/benchmark)|
 |2022|IJGI| |[VHRShips](https://www.mdpi.com/2220-9964/11/8/445)|[link](https://github.com/radres333/VHRShips)|
 |2022|TGRS| |[LEVIR-Ship](https://ieeexplore.ieee.org/document/9791363)|[link](https://github.com/WindVChen/LEVIR-Ship)|
 |2023|TPAMI| |[SODA-A](https://ieeexplore.ieee.org/abstract/document/10168277/)|[link](https://gcheng-nwpu.github.io/#Datasets)|
@@ -254,7 +254,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2020|Website| |BHP Watertanks|[link](http://patreo.dcc.ufmg.br/2020/07/29/bh-pools-watertanks-datasets/)|
 |2020|RSE| |[GID-15](https://www.sciencedirect.com/science/article/abs/pii/S0034425719303414)|[link](https://captain-whu.github.io/GID15/)|
 |2020|arXiv| |[Hi-UCD](https://arxiv.org/abs/2011.03247)|[link](http://rsidea.whu.edu.cn/Hi-UCD_dataset.htm)|
-|2020|JPRS| |[UAVid](https://www.sciencedirect.com/science/article/abs/pii/S0924271620301295)|[link](https://uavid.nl/)|
+|2020|ISPRS| |[UAVid](https://www.sciencedirect.com/science/article/abs/pii/S0924271620301295)|[link](https://uavid.nl/)|
 |2021|TGRS| |[GEONRW](https://ieeexplore.ieee.org/document/9406194)|[link](https://ieee-dataport.org/open-access/geonrw)|
 |2021|arXiv| |[LoveDA](https://arxiv.org/abs/2110.08733)|[link](https://github.com/Junjue-Wang/LoveDA)|
 |2022|ML| |[MiniFrance](https://link.springer.com/article/10.1007/s10994-020-05943-y)|[link](https://ieee-dataport.org/open-access/minifrance)|
@@ -273,7 +273,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2018|TGRS| |[WHU-CD](https://ieeexplore.ieee.org/document/8444434)|[link](https://gpcv.whu.edu.cn/data/building_dataset.html)|
 |2019|arXiv| |[xBD](https://arxiv.org/abs/1911.09296)|[link](https://github.com/DIUx-xView/xView2_baseline)|
 |2019|CVIU| |[HRSCD](https://www.sciencedirect.com/science/article/abs/pii/S1077314219300992)|[link](https://ieee-dataport.org/open-access/hrscd-high-resolution-semantic-change-detection-dataset)|
-|2020|JPRS| |[DSIFN](https://www.sciencedirect.com/science/article/abs/pii/S0924271620301532)|[link](https://github.com/GeoZcx/A-deeply-supervised-image-fusion-network-for-change-detection-in-remote-sensing-images/tree/master/dataset)|
+|2020|ISPRS| |[DSIFN](https://www.sciencedirect.com/science/article/abs/pii/S0924271620301532)|[link](https://github.com/GeoZcx/A-deeply-supervised-image-fusion-network-for-change-detection-in-remote-sensing-images/tree/master/dataset)|
 |2020|RS| |[LEVIR-CD](https://www.mdpi.com/2072-4292/12/10/1662)|[link](https://opendatalab.com/OpenDataLab/LEVIR-CD)|
 |2020|arXiv| |[SECOND](https://arxiv.org/abs/2010.05687)|[link](https://captain-whu.github.io/SCD/)|
 |2021|ICCV| |[PASTIS](https://arxiv.org/abs/2107.07933)|[link](https://github.com/VSainteuf/pastis-benchmark)|
@@ -283,10 +283,10 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2021|CVPRW| |[QFabric](https://ieeexplore.ieee.org/document/9523090)|[link](https://engine.granular.ai/organizations/granular/projects/631e0974b59aa3b615b0d29a)|
 |2022|JSTARS| |[MSBC](https://ieeexplore.ieee.org/document/9791854)|[link](https://github.com/Lihy256/MSCDUnet)|
 |2022|JSTARS| |[MSOSCD](https://ieeexplore.ieee.org/document/9791854)|[link](https://github.com/Lihy256/MSCDUnet)|
-|2022|JPRS| |[NJDS](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001344)|[link](https://drive.google.com/file/d/1cQRWORIgW-X2BaeRo1hvFj7vlQtwnmne/view?userstoinvite=infinitemabel.wq@gmail.com&ts=636c5f76&actionButton=1&pli=1)|
+|2022|ISPRS| |[NJDS](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001344)|[link](https://drive.google.com/file/d/1cQRWORIgW-X2BaeRo1hvFj7vlQtwnmne/view?userstoinvite=infinitemabel.wq@gmail.com&ts=636c5f76&actionButton=1&pli=1)|
 |2023|GRSL| |[EGY BCD](https://ieeexplore.ieee.org/abstract/document/10145434/)|[link](https://github.com/oshholail/EGY-BCD)|
 |2023|arXiv| |[FPCD](https://arxiv.org/abs/2302.14554)|[link](https://huggingface.co/datasets/ctundia/FPCD)|
-|2023|JPRS| |[GVLM](https://www.sciencedirect.com/science/article/abs/pii/S0924271623000242)|[link](https://github.com/zxk688/GVLM)|
+|2023|ISPRS| |[GVLM](https://www.sciencedirect.com/science/article/abs/pii/S0924271623000242)|[link](https://github.com/zxk688/GVLM)|
 |2024|JRS| |[MtSCCD](https://www.ygxb.ac.cn/en/article/doi/10.11834/jrs.20243210/)|[link](https://sites.google.com/view/zhouwx/dataset)|
 |2024|ECCV| |[MUDS](https://link.springer.com/chapter/10.1007/978-3-031-72904-1_16)|[link](https://www.kaggle.com/datasets/farahchouikhi/muds-dataset)|
 |2024|TGRS| |[LEVIR-MCI](https://ieeexplore.ieee.org/abstract/document/10591792)|[link](https://github.com/Chen-Yang-Liu/Change-Agent)|
