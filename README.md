@@ -29,42 +29,42 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 
 ## Comprehensive SFT
 
-|Year|Venue|Name|Download|More|
-|:-:|:-:|-|-|:-:|
-|2024|CVPR|[GeoChat-Instruct](https://arxiv.org/abs/2311.15826)|[link](https://github.com/mbzuai-oryx/geochat)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/5)|
-|2024|JPRS|[SkyEye-968k](https://arxiv.org/abs/2401.09712)|[link](https://github.com/ZhanYang-nwpu/SkyEyeGPT)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/7)|
-|2024|TGRS|[MMRS-1M](https://arxiv.org/abs/2401.16822)|[link](https://github.com/wivizhang/EarthGPT)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/8)|
-|2024|NeurIPS|[VRSBench-Train](https://arxiv.org/abs/2406.12384)|[link](https://github.com/lx709/VRSBench)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/23)|
-|2024|arXiv|[RS-GPT4V](https://arxiv.org/abs/2406.12479)|[link](https://pan.baidu.com/share/init?surl=Fz0KDpgp-_33BN8XTyQlBQ&pwd=5jny)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/14)|
-|2024|arXiv|[DDFAV](https://arxiv.org/abs/2411.02733)|[link](https://github.com/HaodongLi2024/rspope/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/17)|
-|2024|TGRS|[RSVP](https://arxiv.org/abs/2407.13596)|[link](https://github.com/wivizhang/EarthMarker)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/12)|
-|2024|ECCV|[LHRS-Align & LHRS-Instruct](https://arxiv.org/abs/2402.02544)|[link](https://github.com/NJU-LHRS/LHRS-Bot)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/9)|
-|2024|arXiv|[FIT-RS](https://arxiv.org/abs/2406.10100)|[link](https://github.com/Luo-Z13/SkySenseGPT)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/18)|
-|2024|arXiv|[EarthDial-Instruct](https://arxiv.org/pdf/2412.15190)|N/A|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/19)|
-|2025|arXiv|[GeoPixelD](https://arxiv.org/abs/2501.13925)|[link](https://github.com/mbzuai-oryx/GeoPixel)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/20)|
-|2025|arXiv|[Falcon_SFT](https://arxiv.org/abs/2503.11070)|[link](https://github.com/TianHuiLab/Falcon)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/21)|
-|2025|AAAI|[VersaD & HnstD & VariousRS-Instruct](https://arxiv.org/abs/2403.20213)|[link](https://github.com/opendatalab/VHM)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/10)|
-|2025|ICLR|[TEOChatlas](https://arxiv.org/abs/2410.06234)|[link](https://github.com/ermongroup/TEOChat)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/25)|
-|2025|ICASSP|[ChangeChat-87k](https://ieeexplore.ieee.org/abstract/document/10890620)|[link](https://github.com/hanlinwu/ChangeChat)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/26)|
-|2025|arXiv|[GeoPixInstruct](https://arxiv.org/abs/2501.06828)|[link](https://github.com/Norman-Ou/GeoPix)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/38)|
+|Year|Venue|Country|Name|Download|More|
+|:-:|:-:|:-:|-|-|:-:|
+|2024|CVPR|United Arab Emirates|[GeoChat-Instruct](https://arxiv.org/abs/2311.15826)|[link](https://github.com/mbzuai-oryx/geochat)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/5)|
+|2024|JPRS|China|[SkyEye-968k](https://arxiv.org/abs/2401.09712)|[link](https://github.com/ZhanYang-nwpu/SkyEyeGPT)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/7)|
+|2024|TGRS|China|[MMRS-1M](https://arxiv.org/abs/2401.16822)|[link](https://github.com/wivizhang/EarthGPT)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/8)|
+|2024|NeurIPS|Saudi Arabia|[VRSBench-Train](https://arxiv.org/abs/2406.12384)|[link](https://github.com/lx709/VRSBench)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/23)|
+|2024|arXiv|China|[RS-GPT4V](https://arxiv.org/abs/2406.12479)|[link](https://pan.baidu.com/share/init?surl=Fz0KDpgp-_33BN8XTyQlBQ&pwd=5jny)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/14)|
+|2024|arXiv|China|[DDFAV](https://arxiv.org/abs/2411.02733)|[link](https://github.com/HaodongLi2024/rspope/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/17)|
+|2024|TGRS|China|[RSVP](https://arxiv.org/abs/2407.13596)|[link](https://github.com/wivizhang/EarthMarker)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/12)|
+|2024|ECCV|China|[LHRS-Align & LHRS-Instruct](https://arxiv.org/abs/2402.02544)|[link](https://github.com/NJU-LHRS/LHRS-Bot)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/9)|
+|2024|arXiv|China|[FIT-RS](https://arxiv.org/abs/2406.10100)|[link](https://github.com/Luo-Z13/SkySenseGPT)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/18)|
+|2024|arXiv|United States|[EarthDial-Instruct](https://arxiv.org/pdf/2412.15190)|N/A|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/19)|
+|2025|arXiv|United Arab Emirates|[GeoPixelD](https://arxiv.org/abs/2501.13925)|[link](https://github.com/mbzuai-oryx/GeoPixel)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/20)|
+|2025|arXiv|China|[Falcon_SFT](https://arxiv.org/abs/2503.11070)|[link](https://github.com/TianHuiLab/Falcon)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/21)|
+|2025|AAAI|China|[VersaD & HnstD & VariousRS-Instruct](https://arxiv.org/abs/2403.20213)|[link](https://github.com/opendatalab/VHM)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/10)|
+|2025|ICLR|United States|[TEOChatlas](https://arxiv.org/abs/2410.06234)|[link](https://github.com/ermongroup/TEOChat)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/25)|
+|2025|ICASSP|China|[ChangeChat-87k](https://ieeexplore.ieee.org/abstract/document/10890620)|[link](https://github.com/hanlinwu/ChangeChat)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/26)|
+|2025|arXiv|China|[GeoPixInstruct](https://arxiv.org/abs/2501.06828)|[link](https://github.com/Norman-Ou/GeoPix)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/38)|
 
 
 
 ## Comprehensive Benchmark
-|Year|Venue|Name|Download|More|
-|:-:|:-:|-|-|:-:|
-|2023|arXiv|[RSIEval](https://arxiv.org/abs/2307.15266)|[link](https://github.com/Lavender105/RSGPT)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/22)|
-|2024|ICLR|[NAIP-OSM](https://arxiv.org/abs/2312.06960)|[link](https://graft.cs.cornell.edu)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/27)|
-|2024|CVPR|[GeoChat-Bench](https://arxiv.org/abs/2311.15826)|[link](https://github.com/mbzuai-oryx/geochat)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/28)|
-|2024|ECCV|[LHRS-Bench](https://arxiv.org/abs/2402.02544)|[link](https://github.com/NJU-LHRS/LHRS-Bot)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/29)|
-|2024|NeurIPS|[VRSBench](https://arxiv.org/abs/2406.12384)|[link](https://github.com/lx709/VRSBench)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/1)|
-|2024|arXiv|[FIT-RSFG](https://arxiv.org/abs/2406.10100)|[link](https://github.com/Luo-Z13/SkySenseGPT)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/30)|
-|2024|arXiv|[FIT-RSRC](https://arxiv.org/abs/2406.10100)|[link](https://github.com/Luo-Z13/SkySenseGPT)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/34)|
-|2024|arXiv|[COREval](https://arxiv.org/abs/2411.18145)|N/A|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/31)|
-|2024|arXiv|[VLEO-Bench](https://arxiv.org/abs/2401.17600)|[link](https://vleo.danielz.ch/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/32)|
-|2024|arXiv|[GEOBench-VLM](https://arxiv.org/abs/2411.19325)|[link](https://github.com/The-AI-Alliance/GEO-Bench-VLM)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/13)|
-|2025|AAAI|[UrBench](https://arxiv.org/abs/2408.17267)|[link](https://opendatalab.github.io/UrBench/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/33)|
-|2025|CVPR|[XLRS-Bench](https://arxiv.org/abs/2503.23771)|[link](https://xlrs-bench.github.io/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/64)|
+|Year|Venue|Country|Name|Download|More|
+|:-:|:-:|:-:|-|-|:-:|
+|2023|arXiv|China|[RSIEval](https://arxiv.org/abs/2307.15266)|[link](https://github.com/Lavender105/RSGPT)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/22)|
+|2024|ICLR|United States|[NAIP-OSM](https://arxiv.org/abs/2312.06960)|[link](https://graft.cs.cornell.edu)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/27)|
+|2024|CVPR|United Arab Emirates|[GeoChat-Bench](https://arxiv.org/abs/2311.15826)|[link](https://github.com/mbzuai-oryx/geochat)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/28)|
+|2024|ECCV|China|[LHRS-Bench](https://arxiv.org/abs/2402.02544)|[link](https://github.com/NJU-LHRS/LHRS-Bot)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/29)|
+|2024|NeurIPS|Saudi Arabia|[VRSBench](https://arxiv.org/abs/2406.12384)|[link](https://github.com/lx709/VRSBench)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/1)|
+|2024|arXiv|China|[FIT-RSFG](https://arxiv.org/abs/2406.10100)|[link](https://github.com/Luo-Z13/SkySenseGPT)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/30)|
+|2024|arXiv|China|[FIT-RSRC](https://arxiv.org/abs/2406.10100)|[link](https://github.com/Luo-Z13/SkySenseGPT)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/34)|
+|2024|arXiv|China|[COREval](https://arxiv.org/abs/2411.18145)|N/A|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/31)|
+|2024|arXiv|United States|[VLEO-Bench](https://arxiv.org/abs/2401.17600)|[link](https://vleo.danielz.ch/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/32)|
+|2024|arXiv|United Arab Emirates|[GEOBench-VLM](https://arxiv.org/abs/2411.19325)|[link](https://github.com/The-AI-Alliance/GEO-Bench-VLM)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/13)|
+|2025|AAAI|China|[UrBench](https://arxiv.org/abs/2408.17267)|[link](https://opendatalab.github.io/UrBench/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/33)|
+|2025|CVPR|China|[XLRS-Bench](https://arxiv.org/abs/2503.23771)|[link](https://xlrs-bench.github.io/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/64)|
 
 
 
@@ -76,61 +76,61 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 
 > Image Captioning and Retrieval tasks share the same dataset, consisting of images and their corresponding descriptions. The key difference is that captioning allows multiple textual descriptions per image.
 
-|Year|Venue|Name|Download|More|
-|:-:|:-:|-|-|:-:|
-|2016|CITS|[UCM-Captions](https://ieeexplore.ieee.org/abstract/document/7546397)|[link](https://pan.baidu.com/s/1mjPToHq#list/path=%2F)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/49)|
-|2016|CITS|[Sydney-Captions](https://ieeexplore.ieee.org/abstract/document/7546397)|[link](https://pan.baidu.com/s/1hujEmcG#list/path=%2F)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/50)|
-|2017|TGRS|[RSICD](https://ieeexplore.ieee.org/document/8240966)|[link](https://github.com/201528014227051/RSICD_optimal)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/51)|
-|2021|TGRS|[RSITMD](https://ieeexplore.ieee.org/document/9437331)|[link](https://github.com/xiaoyuan1996/AMFMN)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/52)|
-|2022|TGRS|[NWPU-Captions](https://ieeexplore.ieee.org/document/9866055)|[link](https://github.com/HaiyanHuang98/NWPU-Captions)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/53)|
-|2022|TGRS|[UAV-Captions](https://ieeexplore.ieee.org/document/9521989)|N/A|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/54)|
-|2022|TGRS|[LEVIR-CC](https://ieeexplore.ieee.org/abstract/document/9934924)|[link](https://github.com/Chen-Yang-Liu/RSICC)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/39)|
-|2022|RS|[CapERA](https://www.mdpi.com/2072-4292/15/8/2139)|[link](https://github.com/yakoubbazi/CapEra)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/40)|
-|2023|arXiv|[RSICap](https://arxiv.org/abs/2307.15266)|[link](https://github.com/Lavender105/RSGPT)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/4)|
-|2023|ICCVW|[LAION-EO](https://arxiv.org/abs/2309.15535)|[link](https://huggingface.co/datasets/mikonvergence/LAION-EO)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/55)|
-|2024|arXiv|[LuoJiaHOG](https://arxiv.org/abs/2403.10887)|N/A|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/56)|
-|2024|TGRS|[RemoteCLIP](https://arxiv.org/abs/2306.11029)|[link](https://github.com/ChenDelong1999/RemoteCLIP)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/3)|
-|2024|TGRS|[RS5M](https://arxiv.org/abs/2306.11300)|[link](https://github.com/om-ai-lab/RS5M)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/2)|
-|2024|AAAI|[SkyScript](https://arxiv.org/abs/2312.12856)|[link](https://github.com/wangzhecheng/SkyScript)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/6)|
-|2024|arXiv|[RSTeller](https://arxiv.org/abs/2408.14744)|[link](https://github.com/SlytherinGe/RSTeller/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/15)|
-|2024|NeurIPS|[MMM-RS](https://arxiv.org/abs/2410.22362)|[link](https://github.com/ljl5261/MMM-RS)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/16)|
-|2025|arXiv|[LRS2M](https://arxiv.org/abs/2503.19311)|[link](https://github.com/MitsuiChen14/LRSCLIP)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/66)|
+|Year|Venue|Country|Name|Download|More|
+|:-:|:-:|:-:|-|-|:-:|
+|2016|CITS|China|[UCM-Captions](https://ieeexplore.ieee.org/abstract/document/7546397)|[link](https://pan.baidu.com/s/1mjPToHq#list/path=%2F)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/49)|
+|2016|CITS|China|[Sydney-Captions](https://ieeexplore.ieee.org/abstract/document/7546397)|[link](https://pan.baidu.com/s/1hujEmcG#list/path=%2F)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/50)|
+|2017|TGRS|China|[RSICD](https://ieeexplore.ieee.org/document/8240966)|[link](https://github.com/201528014227051/RSICD_optimal)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/51)|
+|2021|TGRS|China|[RSITMD](https://ieeexplore.ieee.org/document/9437331)|[link](https://github.com/xiaoyuan1996/AMFMN)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/52)|
+|2022|TGRS|China|[NWPU-Captions](https://ieeexplore.ieee.org/document/9866055)|[link](https://github.com/HaiyanHuang98/NWPU-Captions)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/53)|
+|2022|TGRS|Italy|[UAV-Captions](https://ieeexplore.ieee.org/document/9521989)|N/A|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/54)|
+|2022|TGRS|China|[LEVIR-CC](https://ieeexplore.ieee.org/abstract/document/9934924)|[link](https://github.com/Chen-Yang-Liu/RSICC)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/39)|
+|2022|RS|Saudi Arabia|[CapERA](https://www.mdpi.com/2072-4292/15/8/2139)|[link](https://github.com/yakoubbazi/CapEra)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/40)|
+|2023|arXiv|China|[RSICap](https://arxiv.org/abs/2307.15266)|[link](https://github.com/Lavender105/RSGPT)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/4)|
+|2023|ICCVW|European Union|[LAION-EO](https://arxiv.org/abs/2309.15535)|[link](https://huggingface.co/datasets/mikonvergence/LAION-EO)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/55)|
+|2024|arXiv|China|[LuoJiaHOG](https://arxiv.org/abs/2403.10887)|N/A|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/56)|
+|2024|TGRS|China|[RemoteCLIP](https://arxiv.org/abs/2306.11029)|[link](https://github.com/ChenDelong1999/RemoteCLIP)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/3)|
+|2024|TGRS|China|[RS5M](https://arxiv.org/abs/2306.11300)|[link](https://github.com/om-ai-lab/RS5M)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/2)|
+|2024|AAAI|United States|[SkyScript](https://arxiv.org/abs/2312.12856)|[link](https://github.com/wangzhecheng/SkyScript)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/6)|
+|2024|arXiv|China|[RSTeller](https://arxiv.org/abs/2408.14744)|[link](https://github.com/SlytherinGe/RSTeller/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/15)|
+|2024|NeurIPS|China|[MMM-RS](https://arxiv.org/abs/2410.22362)|[link](https://github.com/ljl5261/MMM-RS)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/16)|
+|2025|arXiv|China|[LRS2M](https://arxiv.org/abs/2503.19311)|[link](https://github.com/MitsuiChen14/LRSCLIP)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/66)|
 
 
 ### Visual Question Answering (VQA)
 
-|Year|Venue|Name|Download|More|
-|:-:|:-:|-|-|:-:|
-|2020|TGRS|[RSVQA-LR & RSVQA-HR](https://arxiv.org/abs/2003.07333)|[link](https://rsvqa.sylvainlobry.com)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/57)|
-|2021|IGARSS|[RSVQAxBEN](https://rsvqa.sylvainlobry.com/IGARSS21.pdf)|[link](https://rsvqa.sylvainlobry.com)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/58)|
-|2021|Access|[FloodNet](https://ieeexplore.ieee.org/abstract/document/9460988)|[link](https://github.com/BinaLab/FloodNet-Supervised_v1.0)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/59)|
-|2021|TGRS|[RSIVQA](https://ieeexplore.ieee.org/document/9444570)|[link](https://github.com/spectralpublic/RSIVQA)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/60)|
-|2022|TGRS|[CDVQA](https://ieeexplore.ieee.org/abstract/document/9901476)|[link](https://github.com/YZHJessica/CDVQA)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/35)|
-|2022|IJRS|[VQA-TextRS](https://www.tandfonline.com/doi/abs/10.1080/01431161.2022.2145583)|N/A|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/61)|
-|2022|TGRS|[CRSVQA](https://ieeexplore.ieee.org/abstract/document/10242124)|[link](https://github.com/MeimeiZhang-data/MQVQA)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/62)|
-|2024|TGRS|[RemoteCount](https://arxiv.org/abs/2306.11029)|[link](https://github.com/ChenDelong1999/RemoteCLIP)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/36)|
-|2024|AAAI|[EarthVQA](https://arxiv.org/abs/2312.12222)|[link](https://junjuewang.top/EarthVQA)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/37)|
-|2024|arXiv|[GeoLLaVA](https://arxiv.org/abs/2410.19552)|[link](https://github.com/HosamGen/GeoLLaVA)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/63)|
-|2024|arXiv|[QVG-360K](https://arxiv.org/abs/2410.23828)|[link](https://github.com/like413/VisTA)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/24)|
-|2025|ICLR|[MME-RealWorld](https://arxiv.org/abs/2408.13257)|[link](https://mme-realworld.github.io/home_page.html)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/11)|
-|2025|arXiv|[LRS-VQA](https://arxiv.org/abs/2503.07588)|[link](https://github.com/VisionXLab/LRS-VQA)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/65)|
+|Year|Venue|Country|Name|Download|More|
+|:-:|:-:|:-:|-|-|:-:|
+|2020|TGRS|Netherlands|[RSVQA-LR & RSVQA-HR](https://arxiv.org/abs/2003.07333)|[link](https://rsvqa.sylvainlobry.com)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/57)|
+|2021|IGARSS|France|[RSVQAxBEN](https://rsvqa.sylvainlobry.com/IGARSS21.pdf)|[link](https://rsvqa.sylvainlobry.com)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/58)|
+|2021|Access|United States|[FloodNet](https://ieeexplore.ieee.org/abstract/document/9460988)|[link](https://github.com/BinaLab/FloodNet-Supervised_v1.0)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/59)|
+|2021|TGRS|China|[RSIVQA](https://ieeexplore.ieee.org/document/9444570)|[link](https://github.com/spectralpublic/RSIVQA)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/60)|
+|2022|TGRS|Germany|[CDVQA](https://ieeexplore.ieee.org/abstract/document/9901476)|[link](https://github.com/YZHJessica/CDVQA)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/35)|
+|2022|IJRS|Saudi Arabia|[VQA-TextRS](https://www.tandfonline.com/doi/abs/10.1080/01431161.2022.2145583)|N/A|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/61)|
+|2022|TGRS|China|[CRSVQA](https://ieeexplore.ieee.org/abstract/document/10242124)|[link](https://github.com/MeimeiZhang-data/MQVQA)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/62)|
+|2024|TGRS|China|[RemoteCount](https://arxiv.org/abs/2306.11029)|[link](https://github.com/ChenDelong1999/RemoteCLIP)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/36)|
+|2024|AAAI|China|[EarthVQA](https://arxiv.org/abs/2312.12222)|[link](https://junjuewang.top/EarthVQA)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/37)|
+|2024|arXiv|United Arab Emirates|[GeoLLaVA](https://arxiv.org/abs/2410.19552)|[link](https://github.com/HosamGen/GeoLLaVA)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/63)|
+|2024|arXiv|China|[QVG-360K](https://arxiv.org/abs/2410.23828)|[link](https://github.com/like413/VisTA)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/24)|
+|2025|ICLR|China|[MME-RealWorld](https://arxiv.org/abs/2408.13257)|[link](https://mme-realworld.github.io/home_page.html)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/11)|
+|2025|arXiv|China|[LRS-VQA](https://arxiv.org/abs/2503.07588)|[link](https://github.com/VisionXLab/LRS-VQA)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/65)|
 
 
 
 ### Visual Grounding
 
 
-|Year|Venue|Name|Download|More|
-|:-:|:-:|-|-|:-:|
-|2022|MM|[RSVG](https://dl.acm.org/doi/abs/10.1145/3503161.3548316)|[link](https://sunyuxi.github.io/publication/GeoVG)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/41)|
-|2023|TGRS|[DIOR-RSVG](https://ieeexplore.ieee.org/abstract/document/10056343)|[link](https://github.com/ZhanYang-nwpu/RSVG-pytorch)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/42)|
-|2024|ECCV|[GeoText-1652](https://arxiv.org/abs/2311.12751)|[link](https://multimodalgeo.github.io/GeoText/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/43)|
-|2024|TGRS|[RSVG-HR](https://ieeexplore.ieee.org/abstract/document/10542207)|[link](https://github.com/LANMNG/LQVG)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/44)|
-|2024|TGRS|[OPT-RSVG](https://ieeexplore.ieee.org/abstract/document/10584552)|[link](https://github.com/like413/OPT-RSVG)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/45)|
-|2024|TGRS|[RRSIS (RefSegRS)](https://ieeexplore.ieee.org/abstract/document/10458079)|[link](https://gitlab.lrz.de/ai4eo/reasoning/rrsis)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/47)|
-|2024|CVPR|[RRSIS-D](https://arxiv.org/abs/2312.12470)|[link](https://github.com/Lsan2401/RMSIN)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/48)|
-|2024|arXiv|[AAVG](https://arxiv.org/abs/2411.11904)|[link](https://github.com/zytx121/GeoGround)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/46)|
-|2024|arXiv|[refGeo](https://arxiv.org/abs/2411.11904)|[link](https://github.com/zytx121/GeoGround)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/67)|
+|Year|Venue|Country|Name|Download|More|
+|:-:|:-:|:-:|-|-|:-:|
+|2022|MM|China|[RSVG](https://dl.acm.org/doi/abs/10.1145/3503161.3548316)|[link](https://sunyuxi.github.io/publication/GeoVG)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/41)|
+|2023|TGRS|China|[DIOR-RSVG](https://ieeexplore.ieee.org/abstract/document/10056343)|[link](https://github.com/ZhanYang-nwpu/RSVG-pytorch)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/42)|
+|2024|ECCV|Singapore|[GeoText-1652](https://arxiv.org/abs/2311.12751)|[link](https://multimodalgeo.github.io/GeoText/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/43)|
+|2024|TGRS|China|[RSVG-HR](https://ieeexplore.ieee.org/abstract/document/10542207)|[link](https://github.com/LANMNG/LQVG)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/44)|
+|2024|TGRS|China|[OPT-RSVG](https://ieeexplore.ieee.org/abstract/document/10584552)|[link](https://github.com/like413/OPT-RSVG)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/45)|
+|2024|TGRS|Germany|[RRSIS (RefSegRS)](https://ieeexplore.ieee.org/abstract/document/10458079)|[link](https://gitlab.lrz.de/ai4eo/reasoning/rrsis)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/47)|
+|2024|CVPR|China|[RRSIS-D](https://arxiv.org/abs/2312.12470)|[link](https://github.com/Lsan2401/RMSIN)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/48)|
+|2024|arXiv|Singapore|[AAVG](https://arxiv.org/abs/2411.11904)|[link](https://github.com/zytx121/GeoGround)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/46)|
+|2024|arXiv|Singapore|[refGeo](https://arxiv.org/abs/2411.11904)|[link](https://github.com/zytx121/GeoGround)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/67)|
 
 ## Meta Data
 All remote sensing datasets used to construct the above-mentioned VL datasets. 
