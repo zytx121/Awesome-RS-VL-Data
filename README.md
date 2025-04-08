@@ -334,34 +334,40 @@ If you want to see how many datasets used the `xBD` metadata during construction
 
 |Year|Venue|Keywords|Name|Download|
 |:-:|:-:|:-:|-|-|
-|2023|arXiv||[Rsgpt: A remote sensing vision language model and benchmark](https://arxiv.org/abs/2307.15266)|[Code](https://github.com/Lavender105/RSGPT)|
-|2024|CVPR||[GeoChat: Grounded Large Vision-Language Model for Remote Sensing](https://arxiv.org/abs/2311.15826)|[Code](https://github.com/mbzuai-oryx/geochat)|
-|2024|arXiv||[SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model](https://arxiv.org/abs/2401.09712)|[Code](https://github.com/ZhanYang-nwpu/SkyEyeGPT)|
-|2024|TGRS||[Earthgpt: A universal multi-modal large language model for multi-sensor image comprehension in remote sensing domain](https://arxiv.org/abs/2401.16822)|N/A|
-|2024|ECCV||[LHRS-Bot: Empowering Remote Sensing with VGI-Enhanced Large Multimodal Language Model](https://arxiv.org/abs/2402.02544)|[Code](https://github.com/NJU-LHRS/LHRS-Bot)|
+|2023|arXiv||[Rsgpt: A remote sensing vision language model and benchmark](https://arxiv.org/abs/2307.15266)|[![Star](https://img.shields.io/github/stars/Lavender105/RSGPT.svg?style=social&label=Star)](https://github.com/Lavender105/RSGPT)|
+|2024|CVPR||[GeoChat: Grounded Large Vision-Language Model for Remote Sensing](https://arxiv.org/abs/2311.15826)|[![Star](https://img.shields.io/github/stars/mbzuai-oryx/geochat.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/geochat)|
+|2024|ISPRS||[SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model](https://arxiv.org/abs/2401.09712)|[![Star](https://img.shields.io/github/stars/ZhanYang-nwpu/SkyEyeGPT.svg?style=social&label=Star)](https://github.com/ZhanYang-nwpu/SkyEyeGPT)|
+|2024|TGRS||[Earthgpt: A universal multi-modal large language model for multi-sensor image comprehension in remote sensing domain](https://arxiv.org/abs/2401.16822)|[![Star](https://img.shields.io/github/stars/wivizhang/EarthGPT.svg?style=social&label=Star)](https://github.com/wivizhang/EarthGPT)|
+|2024|ECCV||[LHRS-Bot: Empowering Remote Sensing with VGI-Enhanced Large Multimodal Language Model](https://arxiv.org/abs/2402.02544)|[![Star](https://img.shields.io/github/stars/NJU-LHRS/LHRS-Bot.svg?style=social&label=Star)](https://github.com/NJU-LHRS/LHRS-Bot)|
 |2024|arXiv||[Popeye: A Unified Visual-Language Model for Multi-Source Ship Detection from Remote Sensing Imagery](https://arxiv.org/abs/2403.03790)|N/A|
 |2024|arXiv||[Large Language Models for Captioning and Retrieving Remote Sensing Images](https://arxiv.org/abs/2402.06475)|N/A|
-|2024|arXiv||[H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model](https://arxiv.org/abs/2403.20213)|N/A|
-|2024|RS||[RS-LLaVA: A Large Vision-Language Model for Joint Captioning and Question Answering in Remote Sensing Imagery](https://www.mdpi.com/2072-4292/16/9/1477)|[Code](https://github.com/BigData-KSU/RS-LLaVA)|
-|2024|arXiv||[SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding](https://arxiv.org/abs/2406.10100)|[Code](https://github.com/Luo-Z13/SkySenseGPT)|
-|2024|arXiv||[EarthMarker: A Visual Prompt Learning Framework for Region-level and Point-level Remote Sensing Imagery Comprehension](https://github.com/wivizhang/EarthMarker)|[Code](https://github.com/wivizhang/EarthMarker)|
-|2024|arXiv||[TEOChat: A Large Vision-Language Assistant for Temporal Earth Observation Data](https://arxiv.org/abs/2410.06234)|[Code](https://github.com/ermongroup/TEOChat)|
+|2024|RS||[RS-LLaVA: A Large Vision-Language Model for Joint Captioning and Question Answering in Remote Sensing Imagery](https://www.mdpi.com/2072-4292/16/9/1477)|[![Star](https://img.shields.io/github/stars/BigData-KSU/RS-LLaVA.svg?style=social&label=Star)](https://github.com/BigData-KSU/RS-LLaVA)|
+|2024|arXiv||[SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding](https://arxiv.org/abs/2406.10100)|[![Star](https://img.shields.io/github/stars/Luo-Z13/SkySenseGPT.svg?style=social&label=Star)](https://github.com/Luo-Z13/SkySenseGPT)|
+|2024|TGRS||[EarthMarker: A Visual Prompt Learning Framework for Region-level and Point-level Remote Sensing Imagery Comprehension](https://github.com/wivizhang/EarthMarker)|[![Star](https://img.shields.io/github/stars/wivizhang/EarthMarker.svg?style=social&label=Star)](https://github.com/wivizhang/EarthMarker)|
 |2024|arXiv||[Aquila: A Hierarchically Aligned Visual-Language Model for Enhanced Remote Sensing Image Comprehension](https://arxiv.org/abs/2411.06074)|N/A|
-|2024|arXiv||[GeoGround: A Unified Large Vision-Language Model for Remote Sensing Visual Grounding](https://arxiv.org/abs/2411.11904)|[Code](https://github.com/zytx121/GeoGround)|
-|2024|arXiv||[LHRS-Bot-Nova: Improved Multimodal Large Language Model for Remote Sensing Vision-Language Interpretation](https://arxiv.org/abs/2411.09301)|[Code](https://github.com/NJU-LHRS/LHRS-Bot)|
+|2024|arXiv||[GeoGround: A Unified Large Vision-Language Model for Remote Sensing Visual Grounding](https://arxiv.org/abs/2411.11904)|[![Star](https://img.shields.io/github/stars/zytx121/GeoGround.svg?style=social&label=Star)](https://github.com/zytx121/GeoGround)|
+|2024|arXiv||[LHRS-Bot-Nova: Improved Multimodal Large Language Model for Remote Sensing Vision-Language Interpretation](https://arxiv.org/abs/2411.09301)|[![Star](https://img.shields.io/github/stars/NJU-LHRS/LHRS-Bot.svg?style=social&label=Star)](https://github.com/NJU-LHRS/LHRS-Bot)|
 |2024|arXiv||[GeoLLaVA: Efficient Fine-Tuned Vision-Language Models for Temporal Change Detection in Remote Sensing](https://arxiv.org/abs/2410.19552)|N/A|
-|2024|arXiv||[RS-MoE: Mixture of Experts for Remote Sensing Image Captioning and Visual Question Answering](https://arxiv.org/abs/2411.01595)|N/A|
 |2024|TGRS||[RingMoGPT: A Unified Remote Sensing Foundation Model for Vision, Language, and grounded tasks](https://ieeexplore.ieee.org/document/10777289)|N/A|
-|2024|arXiv||[RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts](https://arxiv.org/abs/2412.05679)|[Code](https://github.com/xuliu-cyber/RSUniVLM)|
-|2024|arXiv||[EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues](https://arxiv.org/abs/2412.15190)|N/A|
-|2024|arXiv||[UniRS: Unifying Multi-temporal Remote Sensing Tasks through Vision Language Models](https://arxiv.org/abs/2412.20742v1)|N/A|
+|2024|arXiv||[RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts](https://arxiv.org/abs/2412.05679)|[![Star](https://img.shields.io/github/stars/xuliu-cyber/RSUniVLM.svg?style=social&label=Star)](https://github.com/xuliu-cyber/RSUniVLM)|
+|2024|arXiv||[UniRS: Unifying Multi-temporal Remote Sensing Tasks through Vision Language Models](https://arxiv.org/abs/2412.20742v1)|[![Star](https://img.shields.io/github/stars/IntelliSensing/UniRS.svg?style=social&label=Star)](https://github.com/IntelliSensing/UniRS) |
 |2024|arXiv||[REO-VLM: Transforming VLM to Meet Regression Challenges in Earth Observation](https://arxiv.org/abs/2412.16583)|N/A|
-|2025|AAAI||[VHM: Versatile and Honest Vision Language Model for Remote Sensing Image Analysis](https://arxiv.org/abs/2403.20213v4)|[Code](https://github.com/opendatalab/VHM)|
-|2025|arXiv||[GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing](https://arxiv.org/abs/2501.06828)|N/A|
-|2025|arXiv||[GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing](https://arxiv.org/abs/2501.13925)|[Code](https://github.com/mbzuai-oryx/GeoPixel)]|
+|2025|TGRS||[RS-MoE: Mixture of Experts for Remote Sensing Image Captioning and Visual Question Answering](https://arxiv.org/abs/2411.01595)|N/A|
+|2025|ICLR||[TEOChat: A Large Vision-Language Assistant for Temporal Earth Observation Data](https://arxiv.org/abs/2410.06234)|[![Star](https://img.shields.io/github/stars/ermongroup/TEOChat.svg?style=social&label=Star)](https://github.com/ermongroup/TEOChat)|
+|2025|AAAI||[VHM: Versatile and Honest Vision Language Model for Remote Sensing Image Analysis](https://arxiv.org/abs/2403.20213v4)|[![Star](https://img.shields.io/github/stars/opendatalab/VHM.svg?style=social&label=Star)](https://github.com/opendatalab/VHM)|
+|2025|CVPR||[EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues](https://arxiv.org/abs/2412.15190)|[![Star](https://img.shields.io/github/stars/hiyamdebary/EarthDial.svg?style=social&label=Star)](https://github.com/hiyamdebary/EarthDial)|
+|2025|arXiv||[GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing](https://arxiv.org/abs/2501.06828)|[![Star](https://img.shields.io/github/stars/Norman-Ou/GeoPix.svg?style=social&label=Star)](https://github.com/Norman-Ou/GeoPix)|
+|2025|arXiv||[GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing](https://arxiv.org/abs/2501.13925)|[![Star](https://img.shields.io/github/stars/mbzuai-oryx/GeoPixel.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/GeoPixel)|
+|2025|arXiv| |[Quality-Driven Curation of Remote Sensing Vision-Language Data via Learned Scoring Models](https://arxiv.org/abs/2503.00743)|N/A|
 |2025|arXiv| |[GeoLangBind: Unifying Earth Observation with Agglomerative Vision-Language Foundation Models](https://arxiv.org/abs/2503.06312)|[![Star](https://img.shields.io/github/stars/xiong-zhitong/GeoLB-SigLIP.svg?style=social&label=Star)](https://github.com/xiong-zhitong/GeoLB-SigLIP)|
+|2025|IGARSS||[LMMRotate: A Simple Aerial Detection Baseline of Multimodal Language Models](https://arxiv.org/abs/2501.09720)|[![Star](https://img.shields.io/github/stars/VisionXLab/mllm-mmrotate.svg?style=social&label=Star)](https://github.com/VisionXLab/mllm-mmrotate)|
+|2025|arXiv||[When Large Vision-Language Model Meets Large Remote Sensing Imagery: Coarse-to-Fine Text-Guided Token Pruning](https://arxiv.org/abs/2503.07588)|[![Star](https://img.shields.io/github/stars/VisionXLab/LRS-VQA.svg?style=social&label=Star)](https://github.com/VisionXLab/LRS-VQA)|
+|2025|arXiv||[Falcon: A Remote Sensing Vision-Language Foundation Model](https://arxiv.org/abs/2503.11070)|[![Star](https://img.shields.io/github/stars/TianHuiLab/Falcon.svg?style=social&label=Star)](https://github.com/TianHuiLab/Falcon)|
+|2025|arXiv||[OmniGeo: Towards a Multimodal Large Language Models for Geospatial Artificial Intelligence](https://arxiv.org/abs/2503.16326)|N/A|
+|2025|CVPR||[XLRS-Bench: Could Your Multimodal LLMs Understand Extremely Large Ultra-High-Resolution Remote Sensing Imagery?](https://arxiv.org/abs/2503.23771)|[![Star](https://img.shields.io/github/stars/AI9Stars/XLRS-Bench.svg?style=social&label=Star)](https://xlrs-bench.github.io/)|
+|2025|arXiv||[EagleVision: Object-level Attribute Multimodal LLM for Remote Sensing](https://arxiv.org/abs/2503.23330)|[![Star](https://img.shields.io/github/stars/XiangTodayEatsWhat/EagleVision.svg?style=social&label=Star)](https://github.com/XiangTodayEatsWhat/EagleVision)|
 
-LMMrotate
+
 
 <!-- % [![Star](https://img.shields.io/github/stars/{}.svg?style=social&label=Star)]() --> 
 
@@ -386,11 +392,11 @@ LMMrotate
 |:-:|:-:|:-:|-|-|
 |2023|arXiv| |[Tree-GPT: Modular Large Language Model Expert System for Forest Remote Sensing Image Understanding and Interactive Analysis](http://arxiv.org/abs/2310.04698)|N/A|
 |2024|arXiv| |[Remote Sensing ChatGPT: Solving Remote Sensing Tasks with ChatGPT and Visual Models](https://arxiv.org/abs/2401.09083)|[![Star](https://img.shields.io/github/stars/HaonanGuo/Remote-Sensing-ChatGPT.svg?style=social&label=Star)](https://github.com/HaonanGuo/Remote-Sensing-ChatGPT)|
-|2024|arXiv| |[Change-Agent: Towards Interactive Comprehensive Remote Sensing Change Interpretation and Analysis](https://arxiv.org/abs/2403.19646)|[![Star](https://img.shields.io/github/stars/Chen-Yang-Liu/Change-Agent.svg?style=social&label=Star)](https://github.com/Chen-Yang-Liu/Change-Agent)|
-|2024|arXiv| |[Evaluating Tool-Augmented Agents in Remote Sensing Platforms](https://arxiv.org/abs/2405.00709)|N/A|
+|2024|ICLRW| |[Evaluating Tool-Augmented Agents in Remote Sensing Platforms](https://arxiv.org/abs/2405.00709)|N/A|
 |2024|arXiv| |[GeoLLM-Engine: A Realistic Environment for Building Geospatial Copilots](https://arxiv.org/abs/2404.15500)|N/A|
 |2024|arXiv| |[RS-Agent: Automating Remote Sensing Tasks through Intelligent Agents](https://arxiv.org/abs/2406.07089)|N/A|
-
+|2024|TGRS| |[Change-Agent: Toward Interactive Comprehensive Remote Sensing Change Interpretation and Analysis](https://ieeexplore.ieee.org/abstract/document/10591792)|[![Star](https://img.shields.io/github/stars/Chen-Yang-Liu/Change-Agent.svg?style=social&label=Star)](https://github.com/Chen-Yang-Liu/Change-Agent)|
+|2025|CVPR| |[PEACE: Empowering Geologic Map Holistic Understanding with MLLMs](https://arxiv.org/abs/2501.06184)|[![Star](https://img.shields.io/github/stars/microsoft/PEACE.svg?style=social&label=Star)](https://github.com/microsoft/PEACE)|
 
 ###  Survey
 
