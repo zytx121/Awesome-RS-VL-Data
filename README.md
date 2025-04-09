@@ -102,7 +102,7 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2025|arXiv|China|[LRS2M](https://arxiv.org/abs/2503.19311)|[![Star](https://img.shields.io/github/stars/MitsuiChen14/LRSCLIP.svg?style=social&label=Star)](https://github.com/MitsuiChen14/LRSCLIP)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/66)|
 |2025|arXiv|Germany|[GeoLangBind-2M](https://arxiv.org/abs/2503.06312)|[![Star](https://img.shields.io/github/stars/xiong-zhitong/GeoLB-SigLIP.svg?style=social&label=Star)](https://github.com/xiong-zhitong/GeoLB-SigLIP)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/68)|
 |2025|arXiv|China|[Git-10M](https://arxiv.org/abs/2501.00895v2)|[![Star](https://img.shields.io/github/stars/Chen-Yang-Liu/Text2Earth.svg?style=social&label=Star)](https://github.com/Chen-Yang-Liu/Text2Earth)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/71)|
-
+|2025|arXiv|Greece|[GAIA](https://arxiv.org/abs/2502.09598)|[![Star](https://img.shields.io/github/stars/Orion-AI-Lab/GAIA.svg?style=social&label=Star)](https://github.com/Orion-AI-Lab/GAIA)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/72)|
 
 
 ### Visual Question Answering (VQA)
