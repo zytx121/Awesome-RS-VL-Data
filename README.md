@@ -101,6 +101,8 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2025|ISPRS|China|[LuoJiaHOG](https://arxiv.org/abs/2403.10887)|N/A|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/56)|
 |2025|arXiv|China|[LRS2M](https://arxiv.org/abs/2503.19311)|[![Star](https://img.shields.io/github/stars/MitsuiChen14/LRSCLIP.svg?style=social&label=Star)](https://github.com/MitsuiChen14/LRSCLIP)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/66)|
 |2025|arXiv|Germany|[GeoLangBind-2M](https://arxiv.org/abs/2503.06312)|[![Star](https://img.shields.io/github/stars/xiong-zhitong/GeoLB-SigLIP.svg?style=social&label=Star)](https://github.com/xiong-zhitong/GeoLB-SigLIP)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/68)|
+|2025|arXiv|China|[Git-10M](https://arxiv.org/abs/2501.00895v2)|[![Star](https://img.shields.io/github/stars/Chen-Yang-Liu/Text2Earth.svg?style=social&label=Star)](https://github.com/Chen-Yang-Liu/Text2Earth)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/71)|
+
 
 
 ### Visual Question Answering (VQA)
@@ -303,7 +305,6 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2024|JRS| |[MtSCCD](https://www.ygxb.ac.cn/en/article/doi/10.11834/jrs.20243210/)|[link](https://sites.google.com/view/zhouwx/dataset)|
 |2024|ECCV| |[MUDS](https://link.springer.com/chapter/10.1007/978-3-031-72904-1_16)|[link](https://www.kaggle.com/datasets/farahchouikhi/muds-dataset)|
 |2024|TGRS| |[LEVIR-MCI](https://ieeexplore.ieee.org/abstract/document/10591792)|[![Star](https://img.shields.io/github/stars/Chen-Yang-Liu/Change-Agent.svg?style=social&label=Star)](https://github.com/Chen-Yang-Liu/Change-Agent)|
-
 
 
 
