@@ -394,7 +394,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2024|arXiv||[Mind the Modality Gap: Towards a Remote Sensing Vision-Language Model via Cross-modal Alignment](https://arxiv.org/abs/2402.09816)|N/A|
 |2024|TGRS||[RemoteCLIP: A Vision Language Foundation Model for Remote Sensing](https://arxiv.org/abs/2306.11029)|[![Star](https://img.shields.io/github/stars/ChenDelong1999/RemoteCLIP.svg?style=social&label=Star)](https://github.com/ChenDelong1999/RemoteCLIP)|
 |2025|arXiv| |[LRSCLIP: A Vision-Language Foundation Model for Aligning Remote Sensing Image with Longer Text](https://arxiv.org/abs/2503.19311)|[![Star](https://img.shields.io/github/stars/MitsuiChen14/LRSCLIP.svg?style=social&label=Star)](https://github.com/MitsuiChen14/LRSCLIP)|
-
+|2025|arXiv| |[Beyond the Visible: Multispectral Vision-Language Learning for Earth Observation](https://arxiv.org/abs/2503.15969)|N/A|
 
 ### Intelligent Agents
 
