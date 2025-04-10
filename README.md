@@ -450,8 +450,8 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |Foundation Models for Remote Sensing and Earth Observation|[![Star](https://img.shields.io/github/stars/xiaoaoran/awesome-RSFMs.svg?style=social&label=Star)](https://github.com/xiaoaoran/awesome-RSFMs)|
 |Awesome VLMs in RS|[![Star](https://img.shields.io/github/stars/taolijie11111/VLMs-in-RS-review.svg?style=social&label=Star)](https://github.com/taolijie11111/VLMs-in-RS-review)|
 |Remote Sensing Foundation Models|[![Star](https://img.shields.io/github/stars/IRIP-BUAA/A-Review-for-remote-sensing-vision-language-models.svg?style=social&label=Star)](https://github.com/IRIP-BUAA/A-Review-for-remote-sensing-vision-language-models)|
+|satellite-image-deep-learning[![Star](https://img.shields.io/github/stars/satellite-image-deep-learning/techniques.svg?style=social&label=Star)](https://github.com/satellite-image-deep-learning/techniques)|
 ||[![Star](https://img.shields.io/github/stars/.svg?style=social&label=Star)]()|
-
 
 ## Citation
 
