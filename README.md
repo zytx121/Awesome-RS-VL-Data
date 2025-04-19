@@ -53,7 +53,7 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2025|ICASSP|China|[ChangeChat-87k](https://ieeexplore.ieee.org/abstract/document/10890620)|[![Star](https://img.shields.io/github/stars/hanlinwu/ChangeChat.svg?style=social&label=Star)](https://github.com/hanlinwu/ChangeChat)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/26)|
 |2025|GRSM|China|[GeoPixInstruct](https://arxiv.org/abs/2501.06828)|[![Star](https://img.shields.io/github/stars/Norman-Ou/GeoPix.svg?style=social&label=Star)](https://github.com/Norman-Ou/GeoPix)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/38)|
 |2025|arXiv|Japan|[SARLANG-1M](https://arxiv.org/abs/2504.03254v1)|[![Star](https://img.shields.io/github/stars/Jimmyxichen/SARLANG-1M.svg?style=social&label=Star)](https://github.com/Jimmyxichen/SARLANG-1M)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/70)|
-
+|2025|arXiv|China|[M-RSVP](https://arxiv.org/abs/2504.12795)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/77)|
 
 
 ## Comprehensive Benchmark
