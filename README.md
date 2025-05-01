@@ -6,6 +6,9 @@ This repository is proposed to facilitate training Remote Sensing Vision Languag
 
 > Inspired by the [JE](https://github.com/zytx121/je) project, we have adopted **GitHub Issues** to manage our datasets. With the help of **Labels**, it's easy to filter the datasets we need. We also encourage users to join the **discussion under each issue—sharing their experiences, feedback, and whether they would recommend the dataset to others.**
 
+<img src="https://github.com/user-attachments/assets/4b8f51f6-2299-4429-a08b-cc892fa30cfb" alt="categorization" width="1000"/>
+
+
 
 **Usage Demo:**
 
