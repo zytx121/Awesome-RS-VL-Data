@@ -411,7 +411,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |Year|Venue|Keywords|Name|Download|
 |:-:|:-:|:-:|-|-|
 |2023|arXiv| |[Tree-GPT: Modular Large Language Model Expert System for Forest Remote Sensing Image Understanding and Interactive Analysis](http://arxiv.org/abs/2310.04698)|N/A|
-|2024|arXiv| |[Remote Sensing ChatGPT: Solving Remote Sensing Tasks with ChatGPT and Visual Models](https://arxiv.org/abs/2401.09083)|[![Star](https://img.shields.io/github/stars/HaonanGuo/Remote-Sensing-ChatGPT.svg?style=social&label=Star)](https://github.com/HaonanGuo/Remote-Sensing-ChatGPT)|
+|2024|IGARSS| |[Remote Sensing ChatGPT: Solving Remote Sensing Tasks with ChatGPT and Visual Models](https://arxiv.org/abs/2401.09083)|[![Star](https://img.shields.io/github/stars/HaonanGuo/Remote-Sensing-ChatGPT.svg?style=social&label=Star)](https://github.com/HaonanGuo/Remote-Sensing-ChatGPT)|
 |2024|ICLRW| |[Evaluating Tool-Augmented Agents in Remote Sensing Platforms](https://arxiv.org/abs/2405.00709)|N/A|
 |2024|arXiv| |[GeoLLM-Engine: A Realistic Environment for Building Geospatial Copilots](https://arxiv.org/abs/2404.15500)|N/A|
 |2024|arXiv| |[RS-Agent: Automating Remote Sensing Tasks through Intelligent Agents](https://arxiv.org/abs/2406.07089)|N/A|
