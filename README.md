@@ -8,8 +8,9 @@ This repository is proposed to facilitate training Remote Sensing Vision Languag
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2025.05.24 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2025.07.31 🔥🔥🔥
 
+- **2025.07.31**: Update RS-VL3M and AirSpatialBot.
 - **2025.05.27**: Update RemoteSAM-270K.
 - **2025.05.24**: Update ImageRAG.
 
@@ -66,6 +67,7 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2025|GRSM|China|[GeoPixInstruct](https://arxiv.org/abs/2501.06828)|[![Star](https://img.shields.io/github/stars/Norman-Ou/GeoPix.svg?style=social&label=Star)](https://github.com/Norman-Ou/GeoPix)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/38)|
 |2025|arXiv|Japan|[SARLANG-1M](https://arxiv.org/abs/2504.03254v1)|[![Star](https://img.shields.io/github/stars/Jimmyxichen/SARLANG-1M.svg?style=social&label=Star)](https://github.com/Jimmyxichen/SARLANG-1M)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/70)|
 |2025|arXiv|China|[M-RSVP](https://arxiv.org/abs/2504.12795)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/77)|
+|2025|arXiv|China|[RS-VL3M](https://arxiv.org/abs/2507.20776)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/85)|
 
 
 ## Comprehensive Benchmark
@@ -395,6 +397,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2025|arXiv||[SARChat-Bench-2M: A Multi-Task Vision-Language Benchmark for SAR Image Interpretation](https://arxiv.org/abs/2502.08168)|[![Star](https://img.shields.io/github/stars/JimmyMa99/SARChat.svg?style=social&label=Star)](https://github.com/JimmyMa99/SARChat)|
 |2025|arXiv||[LISAt: Language-Instructed Segmentation Assistant for Satellite Imagery](https://arxiv.org/abs/2505.02829)|[![Star](https://img.shields.io/github/stars/lisat-bair/LISAt_code.svg?style=social&label=Star)](https://github.com/lisat-bair/LISAt_code)|
 |2025|GRSM||[ImageRAG: Enhancing Ultra High Resolution Remote Sensing Imagery Analysis with ImageRAG](https://arxiv.org/abs/2411.07688)|[![Star](https://img.shields.io/github/stars/om-ai-lab/ImageRAG.svg?style=social&label=Star)](https://github.com/om-ai-lab/ImageRAG)|
+|2025|arXiv||[RingMo-Agent: A Unified Remote Sensing Foundation Model for Multi-Platform and Multi-Modal Reasoning](https://arxiv.org/abs/2507.20776)|NaN|
 
 <!-- % [![Star](https://img.shields.io/github/stars/{}.svg?style=social&label=Star)]() --> 
 
