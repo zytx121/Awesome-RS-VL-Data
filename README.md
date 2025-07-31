@@ -424,6 +424,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2024|arXiv| |[RS-Agent: Automating Remote Sensing Tasks through Intelligent Agents](https://arxiv.org/abs/2406.07089)|N/A|
 |2024|TGRS| |[Change-Agent: Toward Interactive Comprehensive Remote Sensing Change Interpretation and Analysis](https://ieeexplore.ieee.org/abstract/document/10591792)|[![Star](https://img.shields.io/github/stars/Chen-Yang-Liu/Change-Agent.svg?style=social&label=Star)](https://github.com/Chen-Yang-Liu/Change-Agent)|
 |2025|CVPR| |[PEACE: Empowering Geologic Map Holistic Understanding with MLLMs](https://arxiv.org/abs/2501.06184)|[![Star](https://img.shields.io/github/stars/microsoft/PEACE.svg?style=social&label=Star)](https://github.com/microsoft/PEACE)|
+|2025|TGRS| |[AirSpatialBot: A Spatially Aware Aerial Agent for Fine-Grained Vehicle Attribute Recognition and Retrieval](https://ieeexplore.ieee.org/document/11006099)|[![Star](https://img.shields.io/github/stars/VisionXLab/AirSpatialBot.svg?style=social&label=Star)](https://github.com/VisionXLab/AirSpatialBot)|
 
 ###  Survey
 
