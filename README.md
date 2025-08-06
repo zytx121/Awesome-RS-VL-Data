@@ -10,7 +10,7 @@ This repository is proposed to facilitate training Remote Sensing Vision Languag
 
 🔥🔥🔥 Last Updated on 2025.08.06 🔥🔥🔥
 
-- **2025.08.06**: Update REOBench, VectorLLM, Copernicus.
+- **2025.08.06**: Update REOBench, VectorLLM, Copernicus, LHRS-Bot-Nova.
 - **2025.07.31**: Update RS-VL3M and AirSpatialBot.
 - **2025.05.27**: Update RemoteSAM-270K.
 - **2025.05.24**: Update ImageRAG.
@@ -69,7 +69,7 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2025|arXiv|Japan|[SARLANG-1M](https://arxiv.org/abs/2504.03254v1)|[![Star](https://img.shields.io/github/stars/Jimmyxichen/SARLANG-1M.svg?style=social&label=Star)](https://github.com/Jimmyxichen/SARLANG-1M)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/70)|
 |2025|arXiv|China|[M-RSVP](https://arxiv.org/abs/2504.12795)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/77)|
 |2025|arXiv|China|[RS-VL3M](https://arxiv.org/abs/2507.20776)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/85)|
-
+|2025|ISPRS|China|[LHRS-Align-Recap & LHRS-Instruct-Plus](https://www.sciencedirect.com/science/article/pii/S0924271625002230)|[![Star](https://img.shields.io/github/stars/NJU-LHRS/LHRS-Bot.svg?style=social&label=Star)](https://github.com/NJU-LHRS/LHRS-Bot)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/87)|
 
 ## Comprehensive Benchmark
 |Year|Venue|Country|Name|Download|More|
@@ -372,7 +372,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2024|arXiv||[Aquila: A Hierarchically Aligned Visual-Language Model for Enhanced Remote Sensing Image Comprehension](https://arxiv.org/abs/2411.06074)|N/A|
 |2024|arXiv| |[Large Vision-Language Models for Remote Sensing Visual Question Answering](https://arxiv.org/abs/2411.10857)|N/A|
 |2024|arXiv||[GeoGround: A Unified Large Vision-Language Model for Remote Sensing Visual Grounding](https://arxiv.org/abs/2411.11904)|[![Star](https://img.shields.io/github/stars/zytx121/GeoGround.svg?style=social&label=Star)](https://github.com/zytx121/GeoGround)|
-|2024|arXiv||[LHRS-Bot-Nova: Improved Multimodal Large Language Model for Remote Sensing Vision-Language Interpretation](https://arxiv.org/abs/2411.09301)|[![Star](https://img.shields.io/github/stars/NJU-LHRS/LHRS-Bot.svg?style=social&label=Star)](https://github.com/NJU-LHRS/LHRS-Bot)|
+|2025|ISPRS||[LHRS-Bot-Nova: Improved Multimodal Large Language Model for Remote Sensing Vision-Language Interpretation](https://arxiv.org/abs/2411.09301)|[![Star](https://img.shields.io/github/stars/NJU-LHRS/LHRS-Bot.svg?style=social&label=Star)](https://github.com/NJU-LHRS/LHRS-Bot)|
 |2024|arXiv||[GeoLLaVA: Efficient Fine-Tuned Vision-Language Models for Temporal Change Detection in Remote Sensing](https://arxiv.org/abs/2410.19552)|N/A|
 |2024|TGRS||[RingMoGPT: A Unified Remote Sensing Foundation Model for Vision, Language, and grounded tasks](https://ieeexplore.ieee.org/document/10777289)|N/A|
 |2024|arXiv||[RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts](https://arxiv.org/abs/2412.05679)|[![Star](https://img.shields.io/github/stars/xuliu-cyber/RSUniVLM.svg?style=social&label=Star)](https://github.com/xuliu-cyber/RSUniVLM)|
