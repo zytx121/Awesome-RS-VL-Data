@@ -8,8 +8,9 @@ This repository is proposed to facilitate training Remote Sensing Vision Languag
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2025.07.31 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2025.08.06 🔥🔥🔥
 
+- **2025.08.06**: Update REOBench.
 - **2025.07.31**: Update RS-VL3M and AirSpatialBot.
 - **2025.05.27**: Update RemoteSAM-270K.
 - **2025.05.24**: Update ImageRAG.
@@ -86,7 +87,7 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2025|CVPR|China|[XLRS-Bench](https://arxiv.org/abs/2503.23771)|[![Star](https://img.shields.io/github/stars/AI9Stars/XLRS-Bench.svg?style=social&label=Star)](https://xlrs-bench.github.io/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/64)|
 |2025|ISPRS|China|[RSIEval](https://arxiv.org/abs/2307.15266)|[![Star](https://img.shields.io/github/stars/Lavender105/RSGPT.svg?style=social&label=Star)](https://github.com/Lavender105/RSGPT)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/22)|
 |2025|arXiv|China|[SARChat-Bench-2M](https://arxiv.org/abs/2502.08168)|[![Star](https://img.shields.io/github/stars/JimmyMa99/SARChat.svg?style=social&label=Star)](https://github.com/JimmyMa99/SARChat)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/78)|
-
+|2025|arXiv|China|[REOBench](https://arxiv.org/abs/2505.16793)|[![Star](https://img.shields.io/github/stars/lx709/REOBench.svg?style=social&label=Star)](https://github.com/lx709/REOBench)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/86)|
 
 ## Task-specific SFT
 
