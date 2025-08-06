@@ -10,7 +10,7 @@ This repository is proposed to facilitate training Remote Sensing Vision Languag
 
 🔥🔥🔥 Last Updated on 2025.08.06 🔥🔥🔥
 
-- **2025.08.06**: Update REOBench, VectorLLM.
+- **2025.08.06**: Update REOBench, VectorLLM, Copernicus.
 - **2025.07.31**: Update RS-VL3M and AirSpatialBot.
 - **2025.05.27**: Update RemoteSAM-270K.
 - **2025.05.24**: Update ImageRAG.
@@ -417,6 +417,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2024|TGRS||[RemoteCLIP: A Vision Language Foundation Model for Remote Sensing](https://arxiv.org/abs/2306.11029)|[![Star](https://img.shields.io/github/stars/ChenDelong1999/RemoteCLIP.svg?style=social&label=Star)](https://github.com/ChenDelong1999/RemoteCLIP)|
 |2025|arXiv| |[LRSCLIP: A Vision-Language Foundation Model for Aligning Remote Sensing Image with Longer Text](https://arxiv.org/abs/2503.19311)|[![Star](https://img.shields.io/github/stars/MitsuiChen14/LRSCLIP.svg?style=social&label=Star)](https://github.com/MitsuiChen14/LRSCLIP)|
 |2025|PKDD| |[Beyond the Visible: Multispectral Vision-Language Learning for Earth Observation](https://arxiv.org/abs/2503.15969)|[![Star](https://img.shields.io/github/stars/IBM/MS-CLIP.svg?style=social&label=Star)](https://github.com/IBM/MS-CLIP)|
+|2025|ICCV| |[Copernicus: Towards a Unified Copernicus Foundation Model for Earth Vision](https://arxiv.org/abs/2503.11849)|[![Star](https://img.shields.io/github/stars/zhu-xlab/Copernicus-FM.svg?style=social&label=Star)](https://github.com/zhu-xlab/Copernicus-FM)|
 
 ### Intelligent Agents
 
