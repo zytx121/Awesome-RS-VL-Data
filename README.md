@@ -10,7 +10,7 @@ This repository is proposed to facilitate training Remote Sensing Vision Languag
 
 🔥🔥🔥 Last Updated on 2025.08.014 🔥🔥🔥
 
-- **2025.08.14**: Update .
+- **2025.08.14**: Update  SkySense V2, CGEarthEye, CrossText2Loc .
 - **2025.08.12**: Update HRVQA.
 - **2025.08.06**: Update REOBench, VectorLLM, Copernicus, LHRS-Bot-Nova.
 - **2025.07.31**: Update RS-VL3M and AirSpatialBot.
