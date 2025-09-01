@@ -8,8 +8,9 @@ This repository is proposed to facilitate training Remote Sensing Vision Languag
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2025.08.14 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2025.09.01 🔥🔥🔥
 
+- **2025.09.01**: Update RemoteReasoner.
 - **2025.08.14**: Update  SkySense V2, CGEarthEye, CrossText2Loc, SPEX .
 - **2025.08.12**: Update HRVQA.
 - **2025.08.06**: Update REOBench, VectorLLM, Copernicus, LHRS-Bot-Nova.
@@ -405,6 +406,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2025|GRSM||[ImageRAG: Enhancing Ultra High Resolution Remote Sensing Imagery Analysis with ImageRAG](https://arxiv.org/abs/2411.07688)|[![Star](https://img.shields.io/github/stars/om-ai-lab/ImageRAG.svg?style=social&label=Star)](https://github.com/om-ai-lab/ImageRAG)|
 |2025|arXiv||[RingMo-Agent: A Unified Remote Sensing Foundation Model for Multi-Platform and Multi-Modal Reasoning](https://arxiv.org/abs/2507.20776)|NaN|
 |2025|arXiv||[VectorLLM: Human-like Extraction of Structured Building Contours vis Multimodal LLMs](https://arxiv.org/abs/2507.04664)|NaN|
+|2025|arXiv||[RemoteReasoner: Towards Unifying Geospatial Reasoning Workflow](https://arxiv.org/abs/2507.19280)|NaN|
 
 <!-- % [![Star](https://img.shields.io/github/stars/{}.svg?style=social&label=Star)]() --> 
 
