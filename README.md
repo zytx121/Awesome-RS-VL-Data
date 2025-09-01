@@ -10,7 +10,7 @@ This repository is proposed to facilitate training Remote Sensing Vision Languag
 
 🔥🔥🔥 Last Updated on 2025.09.01 🔥🔥🔥
 
-- **2025.09.01**: Update RemoteReasoner.
+- **2025.09.01**: Update RemoteReasoner,RESONMAP
 - **2025.08.14**: Update  SkySense V2, CGEarthEye, CrossText2Loc, SPEX .
 - **2025.08.12**: Update HRVQA.
 - **2025.08.06**: Update REOBench, VectorLLM, Copernicus, LHRS-Bot-Nova.
@@ -90,6 +90,7 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2025|ISPRS|China|[RSIEval](https://arxiv.org/abs/2307.15266)|[![Star](https://img.shields.io/github/stars/Lavender105/RSGPT.svg?style=social&label=Star)](https://github.com/Lavender105/RSGPT)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/22)|
 |2025|arXiv|China|[SARChat-Bench-2M](https://arxiv.org/abs/2502.08168)|[![Star](https://img.shields.io/github/stars/JimmyMa99/SARChat.svg?style=social&label=Star)](https://github.com/JimmyMa99/SARChat)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/78)|
 |2025|arXiv|China|[REOBench](https://arxiv.org/abs/2505.16793)|[![Star](https://img.shields.io/github/stars/lx709/REOBench.svg?style=social&label=Star)](https://github.com/lx709/REOBench)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/86)|
+|2025|arXiv|China|[RESONMAP](https://arxiv.org/pdf/2505.18675)|[![Star](https://img.shields.io/github/stars/fscdc/ReasonMap.svg?style=social&label=Star)](https://github.com/fscdc/ReasonMap)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/90)|
 
 ## Task-specific SFT
 
