@@ -129,6 +129,8 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2025|arXiv|Germany|[Llama3-SSL4EOS12](https://arxiv.org/abs/2503.15969)|N/A|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/74)|
 |2025|arXiv|China|[SPEX](https://www.arxiv.org/abs/2508.05202)|[![Star](https://img.shields.io/github/stars/MiliLab/SPEX.svg?style=social&label=Star)](https://github.com/MiliLab/SPEX)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/89)|
 |2025|arXiv|China|[GLEAM](https://arxiv.org/abs/2509.07450)|[![Star](https://img.shields.io/github/stars/Lucky-Lance/GLEAM.svg?style=social&label=Star)](https://github.com/Lucky-Lance/GLEAM)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/91)|
+|2025|GRSM|China|[Street2Sat-Text](https://ieeexplore.ieee.org/document/11083891)|N/A|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/92)|
+|2025|GRSM|China|[CVACT-Text](https://ieeexplore.ieee.org/document/11083891)|N/A|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/93)|
 ||| |[]()||
 
 ### Visual Question Answering (VQA)
