@@ -10,7 +10,7 @@ This repository is proposed to facilitate training Remote Sensing Vision Languag
 
 🔥🔥🔥 Last Updated on 2025.09.29 🔥🔥🔥
 
-- **2025.09.29**: Update SAR-TEXT，AgroMind
+- **2025.09.29**: Update SAR-TEXT，AgroMind，AVI-MATH
 - **2025.09.19**: Update NWPU-Refer
 - **2025.09.16**: Update GLEAM
 - **2025.09.14**: Update RS-OOD, Llama3-MS-CLIP, MSNav, RS-vHeat, Street 2 Sat -Text
@@ -157,7 +157,7 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2025|arXiv|China|[REASONMAP](https://arxiv.org/pdf/2505.18675)|[![Star](https://img.shields.io/github/stars/fscdc/Reason-Map.svg?style=social&label=Star)](https://github.com/fscdc/ReasonMap)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://fscdc.github.io/Reason-Map/issues/90)|
 |2025|arXiv|China|[SAR-TEXT](https://arxiv.org/abs/2507.18743)|[![Star](https://img.shields.io/github/stars/fscdc/SAR-TEXT.svg?style=social&label=Star)](https://github.com/YiguoHe/SAR-TEXT/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://fscdc.github.io/SAR-TEXT/issues/95)|
 |2025|CCF-A|China|[AgroMind](https://arxiv.org/abs/2505.12207)|[![Star](https://img.shields.io/github/stars/fscdc/AgroMind.svg?style=social&label=Star)](https://rssysu.github.io/AgroMind/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://fscdc.github.io/AgroMind/issues/96)|
-
+|2025|ISPRS|China|[AVI-Math](https://authors.elsevier.com/a/1lqB93I9x1uc9A)|[![Star](https://img.shields.io/github/stars/fscdc/AVI-Math.svg?style=social&label=Star)](https://github.com/VisionXLab/avi-math)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://fscdc.github.io/AVI-Math/issues/97)|
 
 
 
