@@ -8,8 +8,9 @@ This repository is proposed to facilitate training Remote Sensing Vision Languag
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2025.10.13 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2025.10.23 🔥🔥🔥
 
+- **2025.10.23**: Update RSCC
 - **2025.10.13**: Update Geo-R1、GRSM、SAR-GEOVL-1M
 - **2025.09.29**: Update SAR-TEXT，AgroMind，AVI-MATH
 - **2025.09.19**: Update NWPU-Refer
@@ -137,6 +138,7 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2025|GRSM|China|[CVACT-Text](https://ieeexplore.ieee.org/document/11083891)|N/A|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/93)|
 |2025|arXiv|China|[SAR-TEXT](https://arxiv.org/abs/2507.18743)|[![Star](https://img.shields.io/github/stars/fscdc/SAR-TEXT.svg?style=social&label=Star)](https://github.com/YiguoHe/SAR-TEXT/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://fscdc.github.io/SAR-TEXT/issues/95)|
 |2025|arXiv|China|[SAR-GEOVL-1M](https://authors.elsevier.com/a/1lqB93I9x1uc9A)|[![Star](https://img.shields.io/github/stars/yangyifremad/SARKnowLIP.svg?style=social&label=Star)](https://github.com/yangyifremad/SARKnowLIP)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://fscdc.github.io/AVI-Math/issues/98)|
+|2025|NeurIPS 2025|China|[RSCC](https://authors.elsevier.com/a/1lqB93I9x1uc9A)|[![Star](https://img.shields.io/github/stars/Bili-Sakura/RSCC.svg?style=social&label=Star)](https://github.com/Bili-Sakura/RSCC)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://fscdc.github.io/AVI-Math/issues/100)|
 ||| |[]()||
 
 ### Visual Question Answering (VQA)
