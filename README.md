@@ -8,7 +8,7 @@ This repository is proposed to facilitate training Remote Sensing Vision Languag
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2025.10.23 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2025.10.31 🔥🔥🔥
 
 - **2025.10.31**: Update Earth-Bench
 - **2025.10.23**: Update RSCC
