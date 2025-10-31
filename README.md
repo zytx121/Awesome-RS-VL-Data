@@ -10,6 +10,7 @@ This repository is proposed to facilitate training Remote Sensing Vision Languag
 
 🔥🔥🔥 Last Updated on 2025.10.23 🔥🔥🔥
 
+- **2025.10.31**: Update Earth-Bench
 - **2025.10.23**: Update RSCC
 - **2025.10.13**: Update Geo-R1、GRSM、SAR-GEOVL-1M
 - **2025.09.29**: Update SAR-TEXT，AgroMind，AVI-MATH
@@ -99,6 +100,7 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2025|arXiv|China|[RESONMAP](https://arxiv.org/pdf/2505.18675)|[![Star](https://img.shields.io/github/stars/fscdc/ReasonMap.svg?style=social&label=Star)](https://github.com/fscdc/ReasonMap)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/90)|
 |2025|arXiv|China|[GLEAM](https://arxiv.org/abs/2509.07450)|[![Star](https://img.shields.io/github/stars/Lucky-Lance/GLEAM.svg?style=social&label=Star)](https://github.com/Lucky-Lance/GLEAM)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/91)|
 |2025|CCF-A|China|[AgroMind](https://arxiv.org/abs/2505.12207)|[![Star](https://img.shields.io/github/stars/Lucky-Lance/GLEAM.svg?style=social&label=Star)](https://rssysu.github.io/AgroMind/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/96)|
+|2025|arXive|China|[Earth-Bench](https://www.arxiv.org/abs/2509.23141)|[![Star](https://img.shields.io/github/stars/opendatalab/Earth-Agent.svg?style=social&label=Star)](https://opendatalab.github.io/Earth-Agent/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/100)|
 
 ## Task-specific SFT
 
