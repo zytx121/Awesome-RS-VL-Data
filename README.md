@@ -9,21 +9,9 @@ This repository is proposed to facilitate training Remote Sensing Vision Languag
 ### 🥳 New
 
 🔥🔥🔥 Last Updated on 2025.11.17 🔥🔥🔥
-
+- **2025.12.01**:VICoT-HRSC , GeoPlan-Bench , LRS-GRO , ThinkGeo
 - **2025.11.17**: Update ScoreRS
 - **2025.10.31**: Update Earth-Bench
-- **2025.10.23**: Update RSCC
-- **2025.10.13**: Update Geo-R1、GRSM、SAR-GEOVL-1M
-- **2025.09.29**: Update SAR-TEXT，AgroMind，AVI-MATH
-- **2025.09.19**: Update NWPU-Refer
-- **2025.09.16**: Update GLEAM
-- **2025.09.14**: Update RS-OOD, Llama3-MS-CLIP, MSNav, RS-vHeat, Street 2 Sat -Text
-- **2025.09.01**: Update RemoteReasoner,RESONMAP
-- **2025.08.14**: Update  SkySense V2, CGEarthEye, CrossText2Loc, SPIE .
-- **2025.08.12**: Update HRVQA.
-- **2025.08.06**: Update REOBench, VectorLLM, Copernicus, LHRS-Bot-Nova.
-- **2025.07.31**: Update RS-VL3M and AirSpatialBot.
-- **2025.05.27**: Update RemoteSAM-270K.
 
   
 ![dara_type](https://github.com/user-attachments/assets/de16f127-9117-4f98-a33c-b36a82f83af2)
@@ -81,6 +69,9 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2025|arXiv|China|[RS-VL3M](https://arxiv.org/abs/2507.20776)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/85)|
 |2025|ISPRS|China|[LHRS-Align-Recap & LHRS-Instruct-Plus](https://www.sciencedirect.com/science/article/pii/S0924271625002230)|[![Star](https://img.shields.io/github/stars/NJU-LHRS/LHRS-Bot.svg?style=social&label=Star)](https://github.com/NJU-LHRS/LHRS-Bot)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/87)|
 |2025|NeurIPS|China|[ScoreRS](https://arxiv.org/abs/2503.00743)|[![Star](https://img.shields.io/github/stars/NJU-LHRS/ScoreRS.svg?style=social&label=Star)]( https://github.com/NJU-LHRS/ScoreRS)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/101)|
+|2025|arXiv|China|[VICoT-HRSC](https://arxiv.org/abs/2503.00743)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/102)|
+
+
 
 ## Comprehensive Benchmark
 |Year|Venue|Country|Name|Download|More|
@@ -103,6 +94,9 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2025|arXiv|China|[GLEAM](https://arxiv.org/abs/2509.07450)|[![Star](https://img.shields.io/github/stars/Lucky-Lance/GLEAM.svg?style=social&label=Star)](https://github.com/Lucky-Lance/GLEAM)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/91)|
 |2025|CCF-A|China|[AgroMind](https://arxiv.org/abs/2505.12207)|[![Star](https://img.shields.io/github/stars/rssysu/AgroMind.svg?style=social&label=Star)](https://rssysu.github.io/AgroMind/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/96)|
 |2025|arXive|China|[Earth-Bench](https://www.arxiv.org/abs/2509.23141)|[![Star](https://img.shields.io/github/stars/opendatalab/Earth-Agent.svg?style=social&label=Star)](https://opendatalab.github.io/Earth-Agent/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/100)|
+|2025|arXive|China|[GeoPlan-Bench](https://arxiv.org/abs/2511.17198)|[![Star](https://img.shields.io/github/stars/earth-insights.github.io/EarthAgent.svg?style=social&label=Star)](https://earth-insights.github.io/EarthAgent)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/103)|
+|2025|arXiv|China|[LRS-GRO](https://arxiv.org/abs/2503.00743)|[![Star](https://img.shields.io/github/stars/earth-insights.github.io/ZoomEarth.svg?style=social&label=Star)](https://earth-insights.github.io/ZoomEarth)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/104)|
+|2025|arXiv|Abu Dhabi IBM|[ThinkGeo](https://arxiv.org/abs/2505.23752)|[![Star](https://img.shields.io/github/stars/mbzuai-oryx/ThinkGeo.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/ThinkGeo)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/105)|
 
 ## Task-specific SFT
 
