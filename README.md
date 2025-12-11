@@ -9,7 +9,7 @@ This repository is proposed to facilitate training Remote Sensing Vision Languag
 ### 🥳 New
 
 🔥🔥🔥 Last Updated on 2025.12.11 🔥🔥🔥
-- **2025.12.11**:Landsat30-AU , MiliLab/UniGeoSeg
+- **2025.12.11**:Landsat30-AU , MiliLab/UniGeoSeg , CitySet
 - **2025.12.01**:VICoT-HRSC , GeoPlan-Bench , LRS-GRO , ThinkGeo
 - **2025.11.17**: Update ScoreRS
 - **2025.10.31**: Update Earth-Bench
@@ -71,7 +71,7 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2025|ISPRS|China|[LHRS-Align-Recap & LHRS-Instruct-Plus](https://www.sciencedirect.com/science/article/pii/S0924271625002230)|[![Star](https://img.shields.io/github/stars/NJU-LHRS/LHRS-Bot.svg?style=social&label=Star)](https://github.com/NJU-LHRS/LHRS-Bot)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/87)|
 |2025|NeurIPS|China|[ScoreRS](https://arxiv.org/abs/2503.00743)|[![Star](https://img.shields.io/github/stars/NJU-LHRS/ScoreRS.svg?style=social&label=Star)]( https://github.com/NJU-LHRS/ScoreRS)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/101)|
 |2025|arXiv|China|[VICoT-HRSC](https://arxiv.org/abs/2503.00743)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/102)|
-|2025|ISPRS|Japan|[CityVLM](https://doi.org/10.1016/j.isprsjprs.2025.11.030)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/109)|
+|2025|ISPRS|Japan|[CitySet](https://doi.org/10.1016/j.isprsjprs.2025.11.030)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/109)|
 
 
 
