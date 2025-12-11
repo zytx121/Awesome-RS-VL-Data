@@ -1,18 +1,33 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/zytx121/Awesome-VLGFM/pulls)
+<div align="center">
+<h1>GeoChef: A Culinary Guide to Dataset Curation for Remote Sensing Vision-Language Models</h1>
+
+<div>
+    DREAMS@ECNU&emsp;
+    VisionXLab@SJTU&emsp;
+</div>
 <br />
-# Awesome-RS-VL-Data
-This repository is proposed to facilitate training Remote Sensing Vision Language Models (RSVLMs) by recommending high-quality supervised fine-tuning (SFT) data. 
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Website](https://img.shields.io/badge/Project-Website-87CEEB)](http://zhouyue.space/GeoChef)
+[![Issue's Welcome](https://img.shields.io/badge/Issues-welcome-brightgreen.svg?style=flat)](https://github.com/zytx121/Awesome-RS-VL-Data/issues)
+[![Paper](https://img.shields.io/badge/HuggingFace-Paper-yellow)](https://huggingface.co/)
+
+</div>
+
+<br />
+
+By providing curated, high-quality dataset recommendations, this repository addresses the critical data needs for developing advanced Large Vision-Language Models (LVLMs) in Remote Sensing. 
 
 > Inspired by the [JE](https://github.com/zytx121/je) project, we have adopted **GitHub Issues** to manage our datasets. With the help of **Labels**, it's easy to filter the datasets we need. We also encourage users to join the **discussion under each issue—sharing their experiences, feedback, and whether they would recommend the dataset to others.**
 
 ### 🥳 New
 
 🔥🔥🔥 Last Updated on 2025.12.11 🔥🔥🔥
-- **2025.12.11**:Landsat30-AU , MiliLab/UniGeoSeg , CitySet
-- **2025.12.01**:VICoT-HRSC , GeoPlan-Bench , LRS-GRO , ThinkGeo
+- **2025.12.11**: Landsat30-AU , MiliLab/UniGeoSeg , CitySet
+- **2025.12.01**: VICoT-HRSC , GeoPlan-Bench , LRS-GRO , ThinkGeo
 - **2025.11.17**: Update ScoreRS
 - **2025.10.31**: Update Earth-Bench
+- 🚀🚀🚀 We will release the survey ASAP.
 
 ![dara_type](https://github.com/user-attachments/assets/de16f127-9117-4f98-a33c-b36a82f83af2)
 
@@ -517,5 +532,5 @@ If you find our survey and repository useful for your research project, please c
 ## Contact
 
 ```
-VisionXLab
+yzhou@geoai.ecnu.edu.cn
 ```
