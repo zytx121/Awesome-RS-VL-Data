@@ -239,8 +239,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2022|RS| |[MRSSC2.0](https://www.mdpi.com/2072-4292/14/18/4635)|[link](https://drive.google.com/drive/folders/1p5oAVuWqyf81I03Ue1m7NyM7P7vrLDZn)|
 |2023|ICCVW| |[SATIN](https://arxiv.org/abs/2304.11619)|[link](https://satinbenchmark.github.io/)|
 |2023|DICTA| |[FireRisk](https://ieeexplore.ieee.org/document/10410957)|[![Star](https://img.shields.io/github/stars/CharmonyShen/FireRisk.svg?style=social&label=Star)](https://github.com/CharmonyShen/FireRisk)|
-
-
+|2025|JAS| |[MEET](https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2025.125324)|[![Star](https://img.shields.io/github/stars/jerrywyn/MEET_code.svg?style=social&label=Star)](https://jerrywyn.github.io/project/MEET.html)|
 
 
 ### Detection
