@@ -23,7 +23,7 @@ By providing curated, high-quality dataset recommendations, this repository addr
 ### 🥳 New
 
 🔥🔥🔥 Last Updated on 2025.12.11 🔥🔥🔥
-- **2025.12.11**: Landsat30-AU , MiliLab/UniGeoSeg , CitySet
+- **2025.12.11**: Landsat30-AU , UniGeoSeg , CitySet
 - **2025.12.01**: VICoT-HRSC, GeoPlan-Bench, LRS-GRO, ThinkGeo
 - **2025.11.17**: Update ScoreRS
 - **2025.10.31**: Update Earth-Bench
