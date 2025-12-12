@@ -1,6 +1,10 @@
 name: Issue-Stats
 description: Statistics issues and push to tag message
 
+permissions:
+  contents: write
+  issues: read
+
 on:
   issues:
     types: [opened, closed, reopened]
