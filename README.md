@@ -81,7 +81,6 @@ By providing curated, high-quality dataset recommendations, this repository addr
 |2025|ISPRS|China|[LHRS-Align-Recap & LHRS-Instruct-Plus](https://www.sciencedirect.com/science/article/pii/S0924271625002230)|[![Star](https://img.shields.io/github/stars/NJU-LHRS/LHRS-Bot.svg?style=social&label=Star)](https://github.com/NJU-LHRS/LHRS-Bot)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/87)|
 |2025|NeurIPS|China|[ScoreRS](https://arxiv.org/abs/2503.00743)|[![Star](https://img.shields.io/github/stars/NJU-LHRS/ScoreRS.svg?style=social&label=Star)]( https://github.com/NJU-LHRS/ScoreRS)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/101)|
 |2025|arXiv|China|[VICoT-HRSC](https://arxiv.org/abs/2503.00743)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/102)|
-|2025|ISPRS|Japan|[CitySet](https://doi.org/10.1016/j.isprsjprs.2025.11.030)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/109)|
 
 ## Comprehensive Benchmarks
 |Year|Venue|Country|Name|Download|More|
@@ -170,7 +169,7 @@ By providing curated, high-quality dataset recommendations, this repository addr
 |2025|ISPRS|China|[AVI-Math](https://authors.elsevier.com/a/1lqB93I9x1uc9A)|[![Star](https://img.shields.io/github/stars/fscdc/AVI-Math.svg?style=social&label=Star)](https://github.com/VisionXLab/avi-math)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://fscdc.github.io/AVI-Math/issues/97)|
 |2025|arXiv|China|[SAR-GEOVL-1M](https://authors.elsevier.com/a/1lqB93I9x1uc9A)|[![Star](https://img.shields.io/github/stars/yangyifremad/SARKnowLIP.svg?style=social&label=Star)](https://github.com/yangyifremad/SARKnowLIP)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://fscdc.github.io/AVI-Math/issues/98)|
 |2025|AAA2026|Australian|[Landsat30-AU-VQA](https://authors.elsevier.com/a/1lqB93I9x1uc9A)|[![Star](https://img.shields.io/github/stars/papersubmit1/landsat30-au.svg?style=social&label=Star)](https://github.com/papersubmit1/landsat30-au)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/papersubmit1/landsat30-au/issues/106)|
-
+|2025|ISPRS|Japan|[CitySet](https://doi.org/10.1016/j.isprsjprs.2025.11.030)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/109)|
 
 
 ### Visual Grounding
@@ -194,7 +193,7 @@ By providing curated, high-quality dataset recommendations, this repository addr
 |2025|arXiv|China|[RefDrone](https://arxiv.org/abs/2502.00392)|[![Star](https://img.shields.io/github/stars/sunzc-sunny/refdrone.svg?style=social&label=Star)](https://github.com/sunzc-sunny/refdrone)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/80)|
 |2025|MM|China|[RemoteSAM-270K](https://arxiv.org/abs/2505.18022)|[![Star](https://img.shields.io/github/stars/1e12Leon/RemoteSAM.svg?style=social&label=Star)](https://github.com/1e12Leon/RemoteSAM)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/81)|
 |2025|arXiv|China|[NWPU-Refer](https://arxiv.org/pdf/2506.03583)|[![Star](https://img.shields.io/github/stars/CVer-Yang/NWPU-Refer.svg?style=social&label=Star)](https://github.com/CVer-Yang/NWPU-Refer)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/94)|
-|2025|arXiv|China|[GeoSeg-1M & GeoSeg-Bench](https://arxiv.org/pdf/2511.23332v1)|[![Star](https://img.shields.io/github/stars/MiliLab/UniGeoSeg.svg?style=social&label=Star)](https://github.com/MiliLab/UniGeoSeg)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/108)|
+|2025|arXiv|China|[GeoSeg-1M](https://arxiv.org/pdf/2511.23332v1)|[![Star](https://img.shields.io/github/stars/MiliLab/UniGeoSeg.svg?style=social&label=Star)](https://github.com/MiliLab/UniGeoSeg)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/108)|
 
 ## Meta Data
 All remote sensing datasets used to construct the above-mentioned VL datasets. 
