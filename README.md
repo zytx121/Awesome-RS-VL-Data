@@ -24,7 +24,8 @@ We encourage researchers to submit outstanding results that we may have missed t
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2025.12.15 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2025.12.17 🔥🔥🔥
+- **2025.12.17**: MaRS-16M
 - **2025.12.15**: UnivEARTH , RS-EoT-4K , OSVQA
 - **2025.12.14**: SARVLM-1M,SARCAP,MMSAR
 - **2025.12.11**: Landsat30-AU, UniGeoSeg, CitySet
