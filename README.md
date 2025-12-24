@@ -1,7 +1,6 @@
-<img width="1200" alt="Image" src="https://github.com/user-attachments/assets/24fe07b1-23e5-4a2e-83eb-ddb616e9e773" />
+<img alt="Image" src="https://github.com/user-attachments/assets/24fe07b1-23e5-4a2e-83eb-ddb616e9e773" />
 <div align="center">
 <h1>Awesome Remote Sensing Vision-Language Datasets</h1>
-
 <div>
     DREAMS@ECNU&emsp;
     VisionXLab@SJTU&emsp;
