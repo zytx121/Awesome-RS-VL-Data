@@ -25,7 +25,7 @@ We encourage researchers to submit outstanding results that we may have missed t
 ### 🥳 New
 
 🔥🔥🔥 Last Updated on 2025.12.24 🔥🔥🔥
-- **2025.12.24**: Geo3DVQA , 
+- **2025.12.24**: Geo3DVQA , GRASP-1K
 - **2025.12.22**: RIS-LAD , KnowFlow-Bench
 - **2025.12.15**: UnivEARTH , RS-EoT-4K , OSVQA
 - 🚀🚀🚀 We will release the survey ASAP.
@@ -100,6 +100,7 @@ We encourage researchers to submit outstanding results that we may have missed t
 |2025|NeruIPS|China|[REOBench](https://arxiv.org/abs/2505.16793)|[![Star](https://img.shields.io/github/stars/lx709/REOBench.svg?style=social&label=Star)](https://github.com/lx709/REOBench)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/86)|
 |2025|arXiv|United Arab Emirates|[ThinkGeo](https://arxiv.org/abs/2505.23752)|[![Star](https://img.shields.io/github/stars/mbzuai-oryx/ThinkGeo.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/ThinkGeo)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/105)|
 |2025|arXix|China|[KnowFlow-Bench](https://arxiv.org/pdf/2512.15231v1)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/121)|
+|2025|arXix|China|[GRASP-1K](https://arxiv.org/pdf/2508.17102v2)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/124)|
 ## Task-specific Data
 
 ### Image Captioning / Retrieval
