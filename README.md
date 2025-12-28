@@ -201,7 +201,7 @@ We encourage researchers to submit outstanding results that we may have missed t
 |2025|arXiv|China|[GeoSeg-1M](https://arxiv.org/abs/2511.23332v1)|[![Star](https://img.shields.io/github/stars/MiliLab/UniGeoSeg.svg?style=social&label=Star)](https://github.com/MiliLab/UniGeoSeg)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/108)|
 |2025|AAAI|China|[RIS-LAD](https://arxiv.org/abs/2507.20920)|[![Star](https://img.shields.io/github/stars/AHideoKuzeA/RIS-LAD-A-Benchmark-and-Model-for-Referring-Low-Altitude-Drone-Image-Segmentation.svg?style=social&label=Star)](https://github.com/AHideoKuzeA/RIS-LAD-A-Benchmark-and-Model-for-Referring-Low-Altitude-Drone-Image-Segmentation)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/120)|
 |2025|arXix|China|[GRASP-1K](https://arxiv.org/pdf/2508.17102v2)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/124)|
-
+|2025|arXiv|China|[LaSeRS](https://arxiv.org/pdf/2512.20013)|[![Star](https://img.shields.io/github/stars/earth-insights/SegEarth-R2.svg?style=social&label=Star)](https://github.com/earth-insights/SegEarth-R2)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/124)|
 ## Meta Data
 All remote sensing datasets used to construct the above-mentioned VL datasets. 
 
