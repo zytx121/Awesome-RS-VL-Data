@@ -103,7 +103,7 @@ We encourage researchers to submit outstanding results that we may have missed t
 |2025|arXix|China|[GRASP-1K](https://arxiv.org/pdf/2508.17102v2)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/124)|
 |2025|arXiv|China|[UrbanVideo-Bench](https://arxiv.org/abs/2503.06157)|[![Star](https://img.shields.io/github/stars/EmbodiedCity/UrbanVideo-Bench.code.svg?style=social&label=Star)](https://github.com/EmbodiedCity/UrbanVideo-Bench.code)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/125)|
 |2025|arXiv|China|[BEDI](https://arxiv.org/abs/2505.18229)|[![Star](https://img.shields.io/github/stars/lostwolves/BEDI.svg?style=social&label=Star)](https://github.com/lostwolves/BEDI)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/126)|
-
+|2025|arXiv|China|[A2Seek](https://arxiv.org/abs/2505.21962)|[![Star](https://img.shields.io/github/stars/A2Seek/.svg?style=social&label=Star)](https://2-mo.github.io/A2Seek/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/128|
 ## Task-specific Data
 
 ### Image Captioning / Retrieval
