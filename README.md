@@ -143,7 +143,7 @@ We encourage researchers to submit outstanding results that we may have missed t
 |2025|AAAI|Australian|[Landsat30-AU-CAP](https://arxiv.org/abs/2508.03127)|[![Star](https://img.shields.io/github/stars/papersubmit1/landsat30-au.svg?style=social&label=Star)](https://github.com/papersubmit1/landsat30-au)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/107)|
 |2025|ISPRS|China|[SARCAP](https://www.sciencedirect.com/science/article/pii/S0924271625004058)|[![Star](https://img.shields.io/github/stars/CAESAR-Radi/SARCLIP.svg?style=social&label=Star)](https://github.com/CAESAR-Radi/SARCLIP)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/113)|
 |2025|TGRS|China|[MMSAR](https://ieeexplore.ieee.org/document/11231801)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/114)|
-
+|2024|drone|China|[MOCO](https://www.mdpi.com/2504-446X/8/9/421)|[![Star](https://img.shields.io/github/stars/Panlizhi/MOCO?.svg?style=social&label=Star)](https://github.com/Panlizhi/MOCO?)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/127)|
 ### Visual Question Answering (VQA)
 
 |Year|Venue|Country|Name|Download|More|
