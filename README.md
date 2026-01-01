@@ -24,7 +24,8 @@ We encourage researchers to submit outstanding results that we may have missed t
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2025.12.30 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2026.01.01 🔥🔥🔥
+- **2026.01.01**: LRS-VQA-Zoom
 - **2025.12.30**: MM-UAVBench
 - **2025.12.28**: BEDI, UrbanVideo-Bench, MOCO, LaSeRS, A2Seek
 - **2025.12.24**: Geo3DVQA, GRASP-1K
@@ -180,6 +181,7 @@ We encourage researchers to submit outstanding results that we may have missed t
 |2025|arXiv|China|[BEDI](https://arxiv.org/abs/2505.18229)|[![Star](https://img.shields.io/github/stars/lostwolves/BEDI.svg?style=social&label=Star)](https://github.com/lostwolves/BEDI)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/126)|
 |2025|arXix|China|[KnowFlow-Bench](https://arxiv.org/pdf/2512.15231v1)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/121)|
 |2025|arXiv|China|[MM-UAVBench](https://arxiv.org/pdf/2512.23219)|[![Star](https://img.shields.io/github/stars/MM-UAVBench/MM-UAVBench.svg?style=social&label=Star)](https://github.com/MM-UAVBench/MM-UAVBench)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/130)|
+|2025|arXiv|China|[LRS-VQA-Zoom](https://arxiv.org/abs/2511.21272)|[![Star](https://img.shields.io/github/stars/VisionXLab/RSCoVLM.svg?style=social&label=Star)](https://github.com/VisionXLab/RSCoVLM)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/132)|
 
 ### Visual Grounding
 
