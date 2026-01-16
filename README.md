@@ -444,7 +444,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2025|GRSM||[ImageRAG: Enhancing Ultra High Resolution Remote Sensing Imagery Analysis with ImageRAG](https://arxiv.org/abs/2411.07688)|[![Star](https://img.shields.io/github/stars/om-ai-lab/ImageRAG.svg?style=social&label=Star)](https://github.com/om-ai-lab/ImageRAG)|
 |2025|arXiv||[RingMo-Agent: A Unified Remote Sensing Foundation Model for Multi-Platform and Multi-Modal Reasoning](https://arxiv.org/abs/2507.20776)|NaN|
 |2025|arXiv||[VectorLLM: Human-like Extraction of Structured Building Contours vis Multimodal LLMs](https://arxiv.org/abs/2507.04664)|NaN|
-|2025|arXiv||[RemoteReasoner: Towards Unifying Geospatial Reasoning Workflow](https://arxiv.org/abs/2507.19280)|NaN|
+|2026|AAAI||[RemoteReasoner: Towards Unifying Geospatial Reasoning Workflow](https://arxiv.org/abs/2507.19280)|NaN|
 |2025|arXiv||[RS-OOD: A Vision-Language Augmented Framework for  Out-of-Distribution Detection in Remote Sensing](https://arxiv.org/abs/2503.06683)|NaN|
 |2025|arXiv||[MSNav: Zero-Shot Vision-and-Language Navigation with Dynamic Memory and LLM Spatial Reasoning](https://arxiv.org/pdf/2508.16654)|NaN|
 |2025| ECML PKDD 2025||[Beyond the Visible: Multispectral Vision-Language Learning for Earth Observation](https://arxiv.org/abs/2503.15969)|[![Star](https://img.shields.io/github/stars/IBM/MS-CLIP.svg?style=social&label=Star)](https://github.com/IBM/MS-CLIP)|
